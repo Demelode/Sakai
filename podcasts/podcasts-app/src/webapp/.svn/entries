@@ -1,86 +1,0 @@
-10
-
-dir
-125008
-https://source.sakaiproject.org/svn/podcasts/branches/sakai-2.9.x/podcasts-app/src/webapp
-https://source.sakaiproject.org/svn
-
-
-
-2013-03-26T23:52:47.579751Z
-121811
-arwhyte@umich.edu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-66ffb92e-73f9-0310-93c1-f5514f145a0a
-
-podcasts
-dir
-
-tools
-dir
-
-jsf
-dir
-
-html
-dir
-
-images
-dir
-
-WEB-INF
-dir
-
-scripts
-dir
-
-css
-dir
-
-index.html
-file
-
-
-
-
-2013-05-25T23:24:57.000000Z
-3b2fff461c332c07f064f52c434bd451
-2006-09-15T16:01:17.109698Z
-14725
-lance@indiana.edu
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-213
-

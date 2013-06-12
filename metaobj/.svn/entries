@@ -1,80 +1,0 @@
-10
-
-dir
-125008
-https://source.sakaiproject.org/svn/metaobj/branches/sakai-2.9.x
-https://source.sakaiproject.org/svn
-
-
-
-2013-04-18T17:02:23.481323Z
-122988
-ottenhoff@longsight.com
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-66ffb92e-73f9-0310-93c1-f5514f145a0a
-
-metaobj-impl
-dir
-
-help
-dir
-
-metaobj-api
-dir
-
-pom.xml
-file
-
-
-
-
-2013-05-25T23:24:32.000000Z
-3377bfdfa222cef4f37a0e0b47dc1458
-2012-10-16T14:47:39.361821Z
-114399
-ottenhoff@longsight.com
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2964
-
-metaobj-tool
-dir
-
-metaobj-util
-dir
-
-metaobj-assembly
-dir
-

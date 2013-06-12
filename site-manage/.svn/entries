@@ -1,153 +1,0 @@
-10
-
-dir
-125008
-https://source.sakaiproject.org/svn/site-manage/branches/sakai-2.9.x
-https://source.sakaiproject.org/svn
-
-
-
-2013-05-17T07:47:26.903455Z
-124192
-miguel.carro@samoo.es
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-66ffb92e-73f9-0310-93c1-f5514f145a0a
-
-site-manage-help
-dir
-
-site-association-hbm
-dir
-
-site-manage-participant-helper
-dir
-
-site-association-api
-dir
-
-pageorder-assembly
-dir
-
-site-association-util
-dir
-
-site-association-tool
-dir
-
-site-manage-impl
-dir
-
-pom.xml
-file
-
-
-
-
-2013-05-25T23:35:54.000000Z
-bd7568e10f20ad3b72db5e9aa19caf9f
-2012-10-16T14:47:39.361821Z
-114399
-ottenhoff@longsight.com
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7740
-
-site-association-assembly
-dir
-
-site-manage-hbm
-dir
-
-site-manage-group-helper
-dir
-
-site-manage-api
-dir
-
-site-manage-group-section-role-helper
-dir
-
-site-manage-link-helper
-dir
-
-site-manage-tool
-dir
-
-site-manage-util
-dir
-
-site-manage-assembly
-dir
-
-readme_sitesetup_question.txt
-file
-
-
-
-
-2013-05-25T23:35:54.000000Z
-2c5cf7d1470fbaf88708a780a7e54e45
-2009-08-25T04:01:36.690016Z
-66027
-zqian@umich.edu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3196
-
-pageorder
-dir
-
-site-association-impl
-dir
-
