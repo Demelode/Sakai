@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/101866/roster/branches/sakai-2.9.x/roster-app/src/webapp/roster/inc
+END
+nav.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/101866/roster/branches/sakai-2.9.x/roster-app/src/webapp/roster/inc/nav.jspf
+END
+filter.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101866/roster/branches/sakai-2.9.x/roster-app/src/webapp/roster/inc/filter.jspf
+END
+groupsFilter.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101866/roster/branches/sakai-2.9.x/roster-app/src/webapp/roster/inc/groupsFilter.jspf
+END

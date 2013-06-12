@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/tool/src/java/org/theospi/portfolio/presentation/render
+END
+PresentationTagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/tool/src/java/org/theospi/portfolio/presentation/render/PresentationTagFactory.java
+END
+TextTypeTagHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/tool/src/java/org/theospi/portfolio/presentation/render/TextTypeTagHandler.java
+END
+SequenceTagHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/tool/src/java/org/theospi/portfolio/presentation/render/SequenceTagHandler.java
+END
+LayoutPageHandlerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/tool/src/java/org/theospi/portfolio/presentation/render/LayoutPageHandlerBase.java
+END
+RegionTagHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/tool/src/java/org/theospi/portfolio/presentation/render/RegionTagHandler.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/121812/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool
+END
+ResourcesEditItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesEditItem.java
+END
+ResourceTypeLabeler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourceTypeLabeler.java
+END
+ResourceConditionsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourceConditionsHelper.java
+END
+AttachmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/AttachmentAction.java
+END
+ResourcesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/119835/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesAction.java
+END
+ResourcesHelperAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/110624/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesHelperAction.java
+END
+ResourcesItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesItem.java
+END
+ListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/121317/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/ListItem.java
+END
+BasicRightsAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/BasicRightsAssignment.java
+END
+FilePickerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/FilePickerAction.java
+END
+ResourcesBrowseItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesBrowseItem.java
+END
+ResourcesMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesMetadata.java
+END
+EntityCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/EntityCounter.java
+END
+MetadataGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/121812/content/branches/sakai-2.9.x/content-tool/tool/src/java/org/sakaiproject/content/tool/MetadataGroup.java
+END

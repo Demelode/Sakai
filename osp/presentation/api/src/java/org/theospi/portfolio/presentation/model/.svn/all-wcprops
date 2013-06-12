@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/118450/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model
+END
+PresentationItemProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationItemProperty.java
+END
+PresentationItemDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationItemDefinition.java
+END
+TemplateUploadForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/TemplateUploadForm.java
+END
+PresentationTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationTemplate.java
+END
+TemplateFileRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/TemplateFileRef.java
+END
+PresentationPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationPage.java
+END
+PresentationLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationLayout.java
+END
+NotificationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/NotificationForm.java
+END
+Presentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/Presentation.java
+END
+PresentationPageRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationPageRegion.java
+END
+PresentationLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationLog.java
+END
+PresentationItemComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationItemComparator.java
+END
+PresentationPageItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationPageItem.java
+END
+PresentationItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationItem.java
+END
+PresentationComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/api/src/java/org/theospi/portfolio/presentation/model/PresentationComment.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/jldap-mock/src/test/edu/amc/sakai/user
+END
+UserEditStubTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/jldap-mock/src/test/edu/amc/sakai/user/UserEditStubTest.java
+END
+ResourcePropertiesEditStubTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/jldap-mock/src/test/edu/amc/sakai/user/ResourcePropertiesEditStubTest.java
+END

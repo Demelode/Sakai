@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer
+END
+ScrollableAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/ScrollableAreaRenderer.java
+END
+WizardStepRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/WizardStepRenderer.java
+END
+TabActionAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/TabActionAreaRenderer.java
+END
+TabAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/TabAreaRenderer.java
+END
+WizardStepsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/WizardStepsRenderer.java
+END
+XmlDocumentRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/XmlDocumentRenderer.java
+END
+SplitSectionRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/SplitSectionRenderer.java
+END
+XHeaderRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/XHeaderRenderer.java
+END
+TestComponentRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/TestComponentRenderer.java
+END
+XHeaderTitleRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/XHeaderTitleRenderer.java
+END
+FormLabelRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/FormLabelRenderer.java
+END
+SplitAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/SplitAreaRenderer.java
+END
+XHeaderDrawerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/XHeaderDrawerRenderer.java
+END
+TabRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/widgets/src/java/org/theospi/jsf/renderer/TabRenderer.java
+END

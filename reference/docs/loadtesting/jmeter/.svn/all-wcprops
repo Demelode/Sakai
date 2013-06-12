@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter
+END
+sakai2_upload_to_resource_tool.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/sakai2_upload_to_resource_tool.jmx
+END
+jmeter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/jmeter.properties
+END
+sakai2_download_from_resource_tool.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/sakai2_download_from_resource_tool.jmx
+END
+fake_passwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/fake_passwords.txt
+END
+test_upload_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/test_upload_list.txt
+END
+sakai1_browse_all_tools.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/sakai1_browse_all_tools.jmx
+END
+sakai2_browse_course_homepages.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/sakai2_browse_course_homepages.jmx
+END
+sakai2_browse_all_tools.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/sakai2_browse_all_tools.jmx
+END
+sakai2_devtest_HTTPSampler2_for_SSL.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/sakai2_devtest_HTTPSampler2_for_SSL.jmx
+END
+sakai2_devtest_download_iframes.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/sakai2_devtest_download_iframes.jmx
+END
+umwebCA.pem
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/umwebCA.pem
+END
+sakai_gateway.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/sakai_gateway.jmx
+END
+fake_usernames.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/fake_usernames.txt
+END
+install_ssl_cert.bat
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/install_ssl_cert.bat
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/docs/loadtesting/jmeter/README.txt
+END

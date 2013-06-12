@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/123609/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
+END
+CourseGradeDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/113319/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/CourseGradeDetailsBean.java
+END
+AssignmentGradeRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/AssignmentGradeRow.java
+END
+RosterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RosterBean.java
+END
+AssignmentDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/AssignmentDetailsBean.java
+END
+GradebookSetupBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/113335/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GradebookSetupBean.java
+END
+Paging.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/Paging.java
+END
+GraderRulesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GraderRulesBean.java
+END
+StudentViewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/StudentViewBean.java
+END
+GradebookDependentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GradebookDependentBean.java
+END
+EnrollmentTableBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/121839/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/EnrollmentTableBean.java
+END
+GradebookBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GradebookBean.java
+END
+AuthorizationFilterConfigurationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/AuthorizationFilterConfigurationBean.java
+END
+InstructorViewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/InstructorViewBean.java
+END
+ConfigurationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/ConfigurationBean.java
+END
+AssignmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/AssignmentBean.java
+END
+GradebookFilePickerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GradebookFilePickerServlet.java
+END
+ViewByStudentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/118510/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/ViewByStudentBean.java
+END
+SpreadsheetUploadBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/SpreadsheetUploadBean.java
+END
+MessagingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/MessagingBean.java
+END
+CourseGradesToSpreadsheetCustomConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/123609/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/CourseGradesToSpreadsheetCustomConverter.java
+END
+InitializableBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/InitializableBean.java
+END
+EntryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/EntryServlet.java
+END
+RoleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RoleFilter.java
+END
+SpreadsheetRemoveBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/SpreadsheetRemoveBean.java
+END
+RemoveAssignmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RemoveAssignmentBean.java
+END
+CourseGradesToSpreadsheetConverterDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/CourseGradesToSpreadsheetConverterDefault.java
+END
+FeedbackOptionsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/FeedbackOptionsBean.java
+END
+PreferencesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/PreferencesBean.java
+END
+BulkAssignmentDecoratedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/BulkAssignmentDecoratedBean.java
+END
+TestGradebookTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/TestGradebookTool.java
+END
+GraderRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GraderRule.java
+END
+OverviewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/OverviewBean.java
+END

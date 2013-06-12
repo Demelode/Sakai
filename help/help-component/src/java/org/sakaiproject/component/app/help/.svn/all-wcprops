@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/122981/help/branches/sakai-2.9.x/help-component/src/java/org/sakaiproject/component/app/help
+END
+HelpManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/122981/help/branches/sakai-2.9.x/help-component/src/java/org/sakaiproject/component/app/help/HelpManagerImpl.java
+END
+RestConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-component/src/java/org/sakaiproject/component/app/help/RestConfigurationImpl.java
+END
+DefaultGlossary.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-component/src/java/org/sakaiproject/component/app/help/DefaultGlossary.java
+END
+SizedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-component/src/java/org/sakaiproject/component/app/help/SizedList.java
+END
+TutorialEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/113787/help/branches/sakai-2.9.x/help-component/src/java/org/sakaiproject/component/app/help/TutorialEntityProviderImpl.java
+END

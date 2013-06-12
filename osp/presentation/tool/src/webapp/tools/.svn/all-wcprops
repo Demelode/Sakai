@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/105596/osp/branches/sakai-2.9.x/presentation/tool/src/webapp/tools
+END
+osp.presentation.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/105596/osp/branches/sakai-2.9.x/presentation/tool/src/webapp/tools/osp.presentation.template.xml
+END
+osp.presentation.layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/105596/osp/branches/sakai-2.9.x/presentation/tool/src/webapp/tools/osp.presentation.layout.xml
+END
+osp.presentation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/105596/osp/branches/sakai-2.9.x/presentation/tool/src/webapp/tools/osp.presentation.xml
+END
+osp.freeFormPres.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/presentation/tool/src/webapp/tools/osp.freeFormPres.xml
+END

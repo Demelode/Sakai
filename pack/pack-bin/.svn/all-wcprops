@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/104989/pack/branches/sakai-2.9.x/pack-bin
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/101850/pack/branches/sakai-2.9.x/pack-bin/.svnignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/104047/pack/branches/sakai-2.9.x/pack-bin/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/104989/pack/branches/sakai-2.9.x/pack-bin/build.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params
+END
+GradebookItemViewParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params/GradebookItemViewParams.java
+END
+GradebookViewParamsInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params/GradebookViewParamsInterceptor.java
+END
+GradeGradebookItemViewParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params/GradeGradebookItemViewParams.java
+END
+HelperAwareViewParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params/HelperAwareViewParams.java
+END

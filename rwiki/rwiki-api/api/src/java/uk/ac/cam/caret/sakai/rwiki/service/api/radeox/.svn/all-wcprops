@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/radeox
+END
+RenderCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/radeox/RenderCache.java
+END
+CachableRenderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/radeox/CachableRenderContext.java
+END
+RenderContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/radeox/RenderContextFactory.java
+END
+RenderEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/radeox/RenderEngineFactory.java
+END

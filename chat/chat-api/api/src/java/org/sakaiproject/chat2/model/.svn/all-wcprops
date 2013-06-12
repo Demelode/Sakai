@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/104261/chat/branches/sakai-2.9.x/chat-api/api/src/java/org/sakaiproject/chat2/model
+END
+ChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-api/api/src/java/org/sakaiproject/chat2/model/ChatMessage.java
+END
+RoomObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-api/api/src/java/org/sakaiproject/chat2/model/RoomObserver.java
+END
+ChatChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-api/api/src/java/org/sakaiproject/chat2/model/ChatChannel.java
+END
+ChatFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-api/api/src/java/org/sakaiproject/chat2/model/ChatFunctions.java
+END
+ChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-api/api/src/java/org/sakaiproject/chat2/model/ChatManager.java
+END
+PresenceObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-api/api/src/java/org/sakaiproject/chat2/model/PresenceObserver.java
+END

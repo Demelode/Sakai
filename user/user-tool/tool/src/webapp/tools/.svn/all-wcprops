@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/101887/user/branches/sakai-2.9.x/user-tool/tool/src/webapp/tools
+END
+sakai.singleuser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101887/user/branches/sakai-2.9.x/user-tool/tool/src/webapp/tools/sakai.singleuser.xml
+END
+sakai.users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/101887/user/branches/sakai-2.9.x/user-tool/tool/src/webapp/tools/sakai.users.xml
+END
+sakai.createuser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101887/user/branches/sakai-2.9.x/user-tool/tool/src/webapp/tools/sakai.createuser.xml
+END

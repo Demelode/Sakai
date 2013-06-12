@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model
+END
+PreferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model/PreferenceImpl.java
+END
+PagePresenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model/PagePresenceImpl.java
+END
+message.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model/message.hbm.xml
+END
+RwikiTriggerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model/RwikiTriggerImpl.java
+END
+RwikiMessageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model/RwikiMessageImpl.java
+END

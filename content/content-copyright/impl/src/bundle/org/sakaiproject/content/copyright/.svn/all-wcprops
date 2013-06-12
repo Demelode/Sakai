@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/122988/content/branches/sakai-2.9.x/content-copyright/impl/src/bundle/org/sakaiproject/content/copyright
+END
+copyright_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/114422/content/branches/sakai-2.9.x/content-copyright/impl/src/bundle/org/sakaiproject/content/copyright/copyright_fr_FR.properties
+END
+copyright.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-copyright/impl/src/bundle/org/sakaiproject/content/copyright/copyright.properties
+END
+copyright_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/122146/content/branches/sakai-2.9.x/content-copyright/impl/src/bundle/org/sakaiproject/content/copyright/copyright_ca.properties
+END
+copyright_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/122988/content/branches/sakai-2.9.x/content-copyright/impl/src/bundle/org/sakaiproject/content/copyright/copyright_pl_PL.properties
+END
+copyright_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-copyright/impl/src/bundle/org/sakaiproject/content/copyright/copyright_es.properties
+END
+copyright_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/109847/content/branches/sakai-2.9.x/content-copyright/impl/src/bundle/org/sakaiproject/content/copyright/copyright_mn.properties
+END
+copyright_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/106084/content/branches/sakai-2.9.x/content-copyright/impl/src/bundle/org/sakaiproject/content/copyright/copyright_tr_TR.properties
+END

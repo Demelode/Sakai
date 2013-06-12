@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/matrix/api/src/java/org/theospi/portfolio/tagging/api
+END
+DecoratedTaggableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/matrix/api/src/java/org/theospi/portfolio/tagging/api/DecoratedTaggableItem.java
+END
+MatrixTaggingProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/matrix/api/src/java/org/theospi/portfolio/tagging/api/MatrixTaggingProvider.java
+END
+DTaggingPager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/matrix/api/src/java/org/theospi/portfolio/tagging/api/DTaggingPager.java
+END
+DecoratedTaggingProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/matrix/api/src/java/org/theospi/portfolio/tagging/api/DecoratedTaggingProvider.java
+END
+DTaggingSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/matrix/api/src/java/org/theospi/portfolio/tagging/api/DTaggingSort.java
+END

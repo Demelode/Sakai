@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/117284/web/branches/sakai-2.9.x/news-impl/impl/src/java/org/sakaiproject/news/impl
+END
+BasicNewsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/105548/web/branches/sakai-2.9.x/news-impl/impl/src/java/org/sakaiproject/news/impl/BasicNewsService.java
+END
+BasicNewsChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/117284/web/branches/sakai-2.9.x/news-impl/impl/src/java/org/sakaiproject/news/impl/BasicNewsChannel.java
+END
+BasicNewsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/117284/web/branches/sakai-2.9.x/news-impl/impl/src/java/org/sakaiproject/news/impl/BasicNewsItem.java
+END
+BasicNewsItemEnclosure.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/101896/web/branches/sakai-2.9.x/news-impl/impl/src/java/org/sakaiproject/news/impl/BasicNewsItemEnclosure.java
+END

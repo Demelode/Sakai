@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/122538/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF
+END
+toolComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/toolComponents.xml
+END
+commandComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/commandComponents.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/components.xml
+END
+prepopulateComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/prepopulateComponents.xml
+END
+rwiki.tld
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/rwiki.tld
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/web.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-util/util/src/java/org/sakaiproject/citation/util/impl
+END
+CQL2XServerFindCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-util/util/src/java/org/sakaiproject/citation/util/impl/CQL2XServerFindCommand.java
+END
+InputStringParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-util/util/src/java/org/sakaiproject/citation/util/impl/InputStringParser.java
+END
+CQLSearchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-util/util/src/java/org/sakaiproject/citation/util/impl/CQLSearchQuery.java
+END
+SearchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-util/util/src/java/org/sakaiproject/citation/util/impl/SearchQuery.java
+END

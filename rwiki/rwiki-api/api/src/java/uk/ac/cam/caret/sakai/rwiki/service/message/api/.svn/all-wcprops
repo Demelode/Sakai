@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/message/api
+END
+PreferenceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/message/api/PreferenceService.java
+END
+TriggerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/message/api/TriggerHandler.java
+END
+TriggerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/message/api/TriggerService.java
+END
+MessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/message/api/MessageService.java
+END

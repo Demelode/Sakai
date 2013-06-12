@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-api/api/src/java/org/sakaiproject/login/api
+END
+LoginAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-api/api/src/java/org/sakaiproject/login/api/LoginAdvisor.java
+END
+LoginCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-api/api/src/java/org/sakaiproject/login/api/LoginCredentials.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-api/api/src/java/org/sakaiproject/login/api/Login.java
+END
+LoginService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-api/api/src/java/org/sakaiproject/login/api/LoginService.java
+END
+LoginRenderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-api/api/src/java/org/sakaiproject/login/api/LoginRenderContext.java
+END
+LoginRenderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-api/api/src/java/org/sakaiproject/login/api/LoginRenderEngine.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js
+END
+DataBinding.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/DataBinding.js
+END
+jquery.keyboard-a11y.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/jquery.keyboard-a11y.js
+END
+ModelTransformations.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/ModelTransformations.js
+END
+FluidIoC.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/FluidIoC.js
+END
+FluidView.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/FluidView.js
+END
+JavaProperties.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/JavaProperties.js
+END
+FluidDOMUtilities.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/FluidDOMUtilities.js
+END
+FluidDebugging.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/FluidDebugging.js
+END
+FluidRequests.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/FluidRequests.js
+END
+FluidDocument.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/FluidDocument.js
+END
+Fluid.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/105576/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid/1.4/framework/core/js/Fluid.js
+END

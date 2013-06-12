@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/108859/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/convertDateTime
+END
+DateTimeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/108859/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/convertDateTime/DateTimeConverter.java
+END
+ConvertDateTimeTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/convertDateTime/ConvertDateTimeTag.java
+END

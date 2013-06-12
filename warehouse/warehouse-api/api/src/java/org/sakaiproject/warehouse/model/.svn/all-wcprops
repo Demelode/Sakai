@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-api/api/src/java/org/sakaiproject/warehouse/model
+END
+UserBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-api/api/src/java/org/sakaiproject/warehouse/model/UserBean.java
+END
+SessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-api/api/src/java/org/sakaiproject/warehouse/model/SessionBean.java
+END

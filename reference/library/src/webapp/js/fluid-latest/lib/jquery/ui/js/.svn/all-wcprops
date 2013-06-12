@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid-latest/lib/jquery/ui/js
+END
+ui.core.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid-latest/lib/jquery/ui/js/ui.core.js
+END
+ui.draggable.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid-latest/lib/jquery/ui/js/ui.draggable.js
+END
+ui.dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid-latest/lib/jquery/ui/js/ui.dialog.js
+END
+ui-FLUID-readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid-latest/lib/jquery/ui/js/ui-FLUID-readme.txt
+END
+ui.accordion.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid-latest/lib/jquery/ui/js/ui.accordion.js
+END
+ui.slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/js/fluid-latest/lib/jquery/ui/js/ui.slider.js
+END

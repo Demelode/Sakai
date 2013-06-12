@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/intf
+END
+ListGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/intf/ListGenerator.java
+END
+ActionableListGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/intf/ActionableListGenerator.java
+END
+DecoratedListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/intf/DecoratedListItem.java
+END
+CustomLinkListGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/intf/CustomLinkListGenerator.java
+END
+ListItemUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/intf/ListItemUtils.java
+END
+ListService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/intf/ListService.java
+END

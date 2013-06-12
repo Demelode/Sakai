@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/105573/roster/branches/sakai-2.9.x/roster-impl/src/java/org/sakaiproject/component/app/roster
+END
+ParticipantImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101866/roster/branches/sakai-2.9.x/roster-impl/src/java/org/sakaiproject/component/app/roster/ParticipantImpl.java
+END
+ProfilePhotoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/101866/roster/branches/sakai-2.9.x/roster-impl/src/java/org/sakaiproject/component/app/roster/ProfilePhotoService.java
+END
+RosterManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/105573/roster/branches/sakai-2.9.x/roster-impl/src/java/org/sakaiproject/component/app/roster/RosterManagerImpl.java
+END
+RosterManagerTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101866/roster/branches/sakai-2.9.x/roster-impl/src/java/org/sakaiproject/component/app/roster/RosterManagerTestImpl.java
+END

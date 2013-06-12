@@ -1,0 +1,135 @@
+10
+
+dir
+125008
+https://source.sakaiproject.org/svn/providers/branches/sakai-2.9.x
+https://source.sakaiproject.org/svn
+
+
+
+2012-07-26T18:04:51.971995Z
+110799
+ottenhoff@longsight.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+cm-authz-provider
+dir
+
+sample
+dir
+
+jldap-mock
+dir
+
+hybrid
+dir
+
+cm-authz-integration-test
+dir
+
+allhands
+dir
+
+jldap-integration-test
+dir
+
+pom.xml
+file
+
+
+
+
+2013-05-25T23:25:03.000000Z
+194d9b695c4a5c3cd6c39d1e734f6bb5
+2012-01-27T16:09:56.386773Z
+104056
+chmaurer@iupui.edu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2967
+
+jldap
+dir
+
+imsent
+dir
+
+openldap
+dir
+
+component
+dir
+
+federating
+dir
+
+README.txt
+file
+
+
+
+
+2013-05-25T23:25:03.000000Z
+3f26f39a81cc7b2771d6f7e697f778b4
+2006-09-09T20:18:24.661580Z
+14311
+csev@umich.edu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+730
+
+kerberos
+dir
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared
+END
+ArtifactFinderManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/ArtifactFinderManager.java
+END
+FormHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/FormHelper.java
+END
+IdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/IdGenerator.java
+END
+IdentifiableIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/IdentifiableIdGenerator.java
+END
+ArtifactFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/ArtifactFinder.java
+END
+DownloadableManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/DownloadableManager.java
+END
+EntityContextFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/EntityContextFinder.java
+END
+SharedFunctionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/SharedFunctionConstants.java
+END
+IdType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/IdType.java
+END

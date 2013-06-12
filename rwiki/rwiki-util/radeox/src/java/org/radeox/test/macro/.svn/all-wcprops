@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro
+END
+LinkMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/LinkMacroTest.java
+END
+ApiDocMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/ApiDocMacroTest.java
+END
+ParamMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/ParamMacroTest.java
+END
+XrefMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/XrefMacroTest.java
+END
+MailToMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/MailToMacroTest.java
+END
+TableMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/TableMacroTest.java
+END
+YipeeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/YipeeTest.java
+END
+ApiMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/ApiMacroTest.java
+END
+AsinMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/AsinMacroTest.java
+END
+RfcMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/RfcMacroTest.java
+END
+AllMacroTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/AllMacroTests.java
+END
+IsbnMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/IsbnMacroTest.java
+END
+FilePathMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/FilePathMacroTest.java
+END
+MacroTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/test/macro/MacroTestSupport.java
+END

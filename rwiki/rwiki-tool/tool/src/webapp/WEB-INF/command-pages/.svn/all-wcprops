@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/edit.jsp
+END
+permission.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/permission.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/header.jsp
+END
+commenteditconflict.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/commenteditconflict.jsp
+END
+fragmentview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/fragmentview.jsp
+END
+presencechatlist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/presencechatlist.jsp
+END
+review.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/review.jsp
+END
+preferences.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/preferences.jsp
+END
+history.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/history.jsp
+END
+commenteditcomplete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/commenteditcomplete.jsp
+END
+publicbreadcrumb.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/publicbreadcrumb.jsp
+END
+fragmentpreview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/fragmentpreview.jsp
+END
+editRealm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/editRealm.jsp
+END
+publicview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/publicview.jsp
+END
+sidebar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/sidebar.jsp
+END
+commentnew.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/commentnew.jsp
+END
+editRealm-manyv2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/editRealm-manyv2.jsp
+END
+realmIdInUse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/realmIdInUse.jsp
+END
+wikiStyle.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/wikiStyle.jsp
+END
+comments.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/comments.jsp
+END
+full_search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/full_search.jsp
+END
+info.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/info.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/footer.jsp
+END
+sidebar-switcher.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/sidebar-switcher.jsp
+END
+presencelist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/presencelist.jsp
+END
+presencechat.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/presencechat.jsp
+END
+search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/search.jsp
+END
+breadcrumb.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/breadcrumb.jsp
+END
+commentedit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/commentedit.jsp
+END
+diff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/diff.jsp
+END
+editRealm-many.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/editRealm-many.jsp
+END
+edittoolbar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/edittoolbar.jsp
+END
+view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/view.jsp
+END
+test.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/test.jsp
+END
+realmUnknown.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/realmUnknown.jsp
+END
+preview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/preview.jsp
+END
+Title.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/Title.jsp
+END
+commentslist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/webapp/WEB-INF/command-pages/commentslist.jsp
+END

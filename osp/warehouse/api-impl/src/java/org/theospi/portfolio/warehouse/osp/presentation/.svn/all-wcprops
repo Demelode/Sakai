@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation
+END
+PresentationLayoutWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/PresentationLayoutWarehouseTask.java
+END
+PresentationWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/PresentationWarehouseTask.java
+END
+PresentationLogPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/PresentationLogPropertyAccess.java
+END
+GuidanceWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/GuidanceWarehouseTask.java
+END
+PresentationCommentsPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/PresentationCommentsPropertyAccess.java
+END
+PresentationTemplateWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/PresentationTemplateWarehouseTask.java
+END

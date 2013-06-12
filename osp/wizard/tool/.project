@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>osp-wizard-tool</name>
+  <comment>Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>osp-wizard-api</project>
+    <project>osp-common-tool-lib</project>
+    <project>sakai-metaobj-tool-lib</project>
+    <project>osp-glossary-tool-lib</project>
+    <project>osp-wizard-tool-lib</project>
+    <project>osp-common-api</project>
+    <project>osp-matrix-api</project>
+    <project>sakai-site-manage-util</project>
+    <project>osp-jsf-widgets</project>
+    <project>sakai-metaobj-api</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

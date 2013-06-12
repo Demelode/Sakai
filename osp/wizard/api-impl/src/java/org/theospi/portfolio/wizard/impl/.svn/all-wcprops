@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/api-impl/src/java/org/theospi/portfolio/wizard/impl
+END
+WizardEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/api-impl/src/java/org/theospi/portfolio/wizard/impl/WizardEntityProducer.java
+END
+WizardHttpAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/api-impl/src/java/org/theospi/portfolio/wizard/impl/WizardHttpAccess.java
+END
+WizardPageDefinitionEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/api-impl/src/java/org/theospi/portfolio/wizard/impl/WizardPageDefinitionEntityProducer.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/test/org/sakaiproject/tool/gradebook/test/support
+END
+BackwardCompatabilityBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/test/org/sakaiproject/tool/gradebook/test/support/BackwardCompatabilityBusiness.java
+END
+BackwardCompatabilityBusinessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/test/org/sakaiproject/tool/gradebook/test/support/BackwardCompatabilityBusinessImpl.java
+END

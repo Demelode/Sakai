@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/113350/site-manage/branches/sakai-2.9.x/site-manage-participant-helper/src/java/org/sakaiproject/site/tool/helper/participant/impl
+END
+UserRoleEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-participant-helper/src/java/org/sakaiproject/site/tool/helper/participant/impl/UserRoleEntry.java
+END
+SiteAddParticipantHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/113350/site-manage/branches/sakai-2.9.x/site-manage-participant-helper/src/java/org/sakaiproject/site/tool/helper/participant/impl/SiteAddParticipantHandler.java
+END

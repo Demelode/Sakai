@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/license.txt
+END
+popupdiv.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/popupdiv.js
+END
+sakai_header.vm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/sakai_header.vm
+END
+reference.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/reference.html
+END
+htmlarea.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/htmlarea.css
+END
+sakai_body.vm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/sakai_body.vm
+END
+setup_htmlarea.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/setup_htmlarea.js
+END
+htmlarea.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/htmlarea.js
+END
+sakai_editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/sakai_editor.js
+END
+dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/dialog.js
+END
+popupwin.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/popupwin.js
+END
+sakai_editor_twinpeaks.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/HTMLArea/sakai_editor_twinpeaks.js
+END

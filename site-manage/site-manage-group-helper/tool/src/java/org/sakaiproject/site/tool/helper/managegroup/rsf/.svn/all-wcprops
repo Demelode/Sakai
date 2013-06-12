@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroup/rsf
+END
+GroupEditViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroup/rsf/GroupEditViewParameters.java
+END
+GroupDelProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroup/rsf/GroupDelProducer.java
+END
+GroupEditProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroup/rsf/GroupEditProducer.java
+END
+GroupListProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroup/rsf/GroupListProducer.java
+END

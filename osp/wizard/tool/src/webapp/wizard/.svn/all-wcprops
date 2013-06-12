@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard
+END
+runWizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/runWizard.jsp
+END
+runWizardGuidance.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/runWizardGuidance.jsp
+END
+editWizardPages.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/editWizardPages.jsp
+END
+showWizardOwnerMessage.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/showWizardOwnerMessage.jspf
+END
+completeWizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/completeWizard.jsp
+END
+importWizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/importWizard.jsp
+END
+wizardPropertiesFrame.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/wizardPropertiesFrame.jspf
+END
+editWizardDesign.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/editWizardDesign.jsp
+END
+confirmDeleteWizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/confirmDeleteWizard.jsp
+END
+editWizardSupport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/editWizardSupport.jsp
+END
+editWizardCategory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/editWizardCategory.jsp
+END
+steps.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/steps.jspf
+END
+editWizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/editWizard.jsp
+END
+wizardGuidance.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/wizardGuidance.jspf
+END
+editWizardType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/editWizardType.jsp
+END
+builderButtons.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/builderButtons.jspf
+END
+runWizardEnd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/runWizardEnd.jsp
+END
+manageWizardStatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/manageWizardStatus.jsp
+END
+confirmDeletePage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/confirmDeletePage.jsp
+END
+confirmDeleteCategory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/confirmDeleteCategory.jsp
+END
+listWizards.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/listWizards.jsp
+END
+confirmSubmit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/confirmSubmit.jsp
+END
+editWizardProperties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/wizard/editWizardProperties.jsp
+END

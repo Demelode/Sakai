@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/109820/providers/branches/sakai-2.9.x/cm-authz-integration-test/src/test/java/org/sakaiproject/coursemanagement/test
+END
+ConfigurationTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/109820/providers/branches/sakai-2.9.x/cm-authz-integration-test/src/test/java/org/sakaiproject/coursemanagement/test/ConfigurationTestBase.java
+END
+EnrollmentOnlyConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/109820/providers/branches/sakai-2.9.x/cm-authz-integration-test/src/test/java/org/sakaiproject/coursemanagement/test/EnrollmentOnlyConfigurationTest.java
+END
+DefaultConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/cm-authz-integration-test/src/test/java/org/sakaiproject/coursemanagement/test/DefaultConfigurationTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/111996/user/branches/sakai-2.9.x/user-tool-prefs/tool/src/java/org/sakaiproject/user/jsf
+END
+HideDivisionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/111996/user/branches/sakai-2.9.x/user-tool-prefs/tool/src/java/org/sakaiproject/user/jsf/HideDivisionComponent.java
+END
+HideDivisionRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/111996/user/branches/sakai-2.9.x/user-tool-prefs/tool/src/java/org/sakaiproject/user/jsf/HideDivisionRenderer.java
+END
+HideDivisionTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/111996/user/branches/sakai-2.9.x/user-tool-prefs/tool/src/java/org/sakaiproject/user/jsf/HideDivisionTag.java
+END

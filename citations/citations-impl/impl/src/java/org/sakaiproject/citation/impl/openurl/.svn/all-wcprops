@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/118326/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/Utils.java
+END
+JournalConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/118326/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/JournalConverter.java
+END
+GenericConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/118326/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/GenericConverter.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/Converter.java
+END
+ContextObjectEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/ContextObjectEntity.java
+END
+URLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/URLBuilder.java
+END
+ContextObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/ContextObject.java
+END
+BookConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/118326/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/BookConverter.java
+END
+ByValueHttpTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/ByValueHttpTransport.java
+END
+RawContextObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/RawContextObject.java
+END
+OpenURLServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/OpenURLServiceImpl.java
+END
+Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/Format.java
+END
+COinSTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/COinSTransport.java
+END
+InlineHttpTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/InlineHttpTransport.java
+END
+AbstractConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/AbstractConverter.java
+END
+Transport.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/Transport.java
+END
+KEVFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/KEVFormat.java
+END

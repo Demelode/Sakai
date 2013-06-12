@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-section-role-helper/tool/src/webapp/content/templates
+END
+GroupDel.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-section-role-helper/tool/src/webapp/content/templates/GroupDel.html
+END
+GroupEdit.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-section-role-helper/tool/src/webapp/content/templates/GroupEdit.html
+END
+GroupImportStep1.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-section-role-helper/tool/src/webapp/content/templates/GroupImportStep1.html
+END
+GroupImportStep2.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-section-role-helper/tool/src/webapp/content/templates/GroupImportStep2.html
+END
+GroupList.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-section-role-helper/tool/src/webapp/content/templates/GroupList.html
+END
+GroupAutoCreate.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-group-section-role-helper/tool/src/webapp/content/templates/GroupAutoCreate.html
+END

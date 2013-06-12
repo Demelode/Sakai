@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/121331/reference/branches/sakai-2.9.x/library/src/webapp/editor/ckextraplugins/fmath_formula/dialogs
+END
+fmath_formula.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/121331/reference/branches/sakai-2.9.x/library/src/webapp/editor/ckextraplugins/fmath_formula/dialogs/fmath_formula.js
+END
+editor.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/121331/reference/branches/sakai-2.9.x/library/src/webapp/editor/ckextraplugins/fmath_formula/dialogs/editor.html
+END
+configMathMLEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/121331/reference/branches/sakai-2.9.x/library/src/webapp/editor/ckextraplugins/fmath_formula/dialogs/configMathMLEditor.xml
+END

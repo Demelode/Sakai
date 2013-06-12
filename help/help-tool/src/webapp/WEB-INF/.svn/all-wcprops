@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/help-tool/src/webapp/WEB-INF
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/help-tool/src/webapp/WEB-INF/faces-config.xml
+END
+local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/help-tool/src/webapp/WEB-INF/local.xml
+END
+help_jsf.tld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/help-tool/src/webapp/WEB-INF/help_jsf.tld
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/help-tool/src/webapp/WEB-INF/web.xml
+END

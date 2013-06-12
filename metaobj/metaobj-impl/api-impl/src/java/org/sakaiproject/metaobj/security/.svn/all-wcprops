@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security
+END
+FunctionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/FunctionConstants.java
+END
+AllowChildrenMapSecurityAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/AllowChildrenMapSecurityAdvisor.java
+END
+AnonymousAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/AnonymousAgent.java
+END
+AllowMapSecurityAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/AllowMapSecurityAdvisor.java
+END

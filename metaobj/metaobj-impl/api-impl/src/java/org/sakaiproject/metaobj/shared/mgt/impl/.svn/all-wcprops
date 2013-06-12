@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/121316/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl
+END
+PortalParamManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/PortalParamManagerImpl.java
+END
+StructuredArtifactValidationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/StructuredArtifactValidationServiceImpl.java
+END
+MetaobjEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/MetaobjEntityProducer.java
+END
+MetaobjHttpAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/MetaobjHttpAccess.java
+END
+FileArtifactFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/FileArtifactFinder.java
+END
+StructuredArtifactDefinitionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/121316/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/StructuredArtifactDefinitionManagerImpl.java
+END
+StructuredArtifactFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/StructuredArtifactFinder.java
+END
+ContentResourceHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/121316/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/ContentResourceHome.java
+END
+MetaobjContentEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/MetaobjContentEntityProducer.java
+END
+WrappedStructuredArtifactFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/WrappedStructuredArtifactFinder.java
+END
+MetaobjContentHttpAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/MetaobjContentHttpAccess.java
+END

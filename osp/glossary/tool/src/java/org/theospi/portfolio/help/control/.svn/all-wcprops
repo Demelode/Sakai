@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/glossary/tool/src/java/org/theospi/portfolio/help/control
+END
+GlossaryImportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryImportController.java
+END
+GlossaryListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryListController.java
+END
+GlossaryRemoveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryRemoveController.java
+END
+GlossaryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryController.java
+END
+GlossaryEntryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryEntryValidator.java
+END
+HelpController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/glossary/tool/src/java/org/theospi/portfolio/help/control/HelpController.java
+END
+GlossaryEditController.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryEditController.java
+END

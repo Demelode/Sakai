@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/review/model
+END
+Review.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/review/model/Review.java
+END
+Review.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/review/model/Review.hbm.xml
+END

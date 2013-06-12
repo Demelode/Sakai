@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101817/config/branches/sakai-2.9.x/localization/bundles/src/java/org/sakaiproject/localization/util
+END
+SiteImplProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/101817/config/branches/sakai-2.9.x/localization/bundles/src/java/org/sakaiproject/localization/util/SiteImplProperties.java
+END
+SiteemaconProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101817/config/branches/sakai-2.9.x/localization/bundles/src/java/org/sakaiproject/localization/util/SiteemaconProperties.java
+END
+EmailImplProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/101817/config/branches/sakai-2.9.x/localization/bundles/src/java/org/sakaiproject/localization/util/EmailImplProperties.java
+END
+ContentProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101817/config/branches/sakai-2.9.x/localization/bundles/src/java/org/sakaiproject/localization/util/ContentProperties.java
+END
+ContentTypeProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/101817/config/branches/sakai-2.9.x/localization/bundles/src/java/org/sakaiproject/localization/util/ContentTypeProperties.java
+END
+ToolProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101817/config/branches/sakai-2.9.x/localization/bundles/src/java/org/sakaiproject/localization/util/ToolProperties.java
+END
+TypeProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101817/config/branches/sakai-2.9.x/localization/bundles/src/java/org/sakaiproject/localization/util/TypeProperties.java
+END

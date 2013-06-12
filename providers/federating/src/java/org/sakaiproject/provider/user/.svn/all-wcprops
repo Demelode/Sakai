@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/federating/src/java/org/sakaiproject/provider/user
+END
+FilterUserDirectoryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/federating/src/java/org/sakaiproject/provider/user/FilterUserDirectoryProvider.java
+END

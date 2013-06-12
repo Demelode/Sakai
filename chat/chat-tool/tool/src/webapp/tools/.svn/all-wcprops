@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/tools
+END
+sakai.chat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/tools/sakai.chat.xml
+END
+sakai.chat.deleteMessage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/tools/sakai.chat.deleteMessage.xml
+END
+sakai.synoptic.chat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/tools/sakai.synoptic.chat.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/121811/podcasts/branches/sakai-2.9.x/podcasts-app
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/101853/podcasts/branches/sakai-2.9.x/podcasts-app/.svnignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/101853/podcasts/branches/sakai-2.9.x/podcasts-app/pom.xml
+END

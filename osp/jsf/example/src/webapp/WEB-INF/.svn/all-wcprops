@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/example/src/webapp/WEB-INF
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/example/src/webapp/WEB-INF/faces-config.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/example/src/webapp/WEB-INF/applicationContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/jsf/example/src/webapp/WEB-INF/web.xml
+END

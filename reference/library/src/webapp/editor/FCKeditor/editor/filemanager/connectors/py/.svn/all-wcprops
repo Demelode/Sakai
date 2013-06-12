@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py/wsgi.py
+END
+connector.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py/connector.py
+END
+zope.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py/zope.py
+END
+fckconnector.py
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py/fckconnector.py
+END
+fckutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py/fckutil.py
+END
+fckoutput.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py/fckoutput.py
+END
+htaccess.txt
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py/htaccess.txt
+END
+upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py/upload.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py/config.py
+END
+fckcommands.py
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/101906/reference/branches/sakai-2.9.x/library/src/webapp/editor/FCKeditor/editor/filemanager/connectors/py/fckcommands.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/impl/sakai
+END
+AgentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/impl/sakai/AgentWrapper.java
+END
+RoleWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/impl/sakai/RoleWrapper.java
+END
+SecurityBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/impl/sakai/SecurityBase.java
+END
+AgentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/impl/sakai/AgentManager.java
+END
+AuthnManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/impl/sakai/AuthnManager.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/117299/site-manage/branches/sakai-2.9.x/site-manage-tool/tool/src/webapp/vm/sitebrowser
+END
+chef_sitebrowser_list.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/117299/site-manage/branches/sakai-2.9.x/site-manage-tool/tool/src/webapp/vm/sitebrowser/chef_sitebrowser_list.vm
+END
+chef_sitebrowser_visit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-tool/tool/src/webapp/vm/sitebrowser/chef_sitebrowser_visit.vm
+END
+chef_sitebrowser_simpleSearch.vm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/113314/site-manage/branches/sakai-2.9.x/site-manage-tool/tool/src/webapp/vm/sitebrowser/chef_sitebrowser_simpleSearch.vm
+END

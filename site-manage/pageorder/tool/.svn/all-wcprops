@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/122147/site-manage/branches/sakai-2.9.x/pageorder/tool
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/pageorder/tool/.svnignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113502/site-manage/branches/sakai-2.9.x/pageorder/tool/pom.xml
+END

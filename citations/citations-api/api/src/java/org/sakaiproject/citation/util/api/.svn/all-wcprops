@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-api/api/src/java/org/sakaiproject/citation/util/api
+END
+InputStringParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-api/api/src/java/org/sakaiproject/citation/util/api/InputStringParser.java
+END
+SearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-api/api/src/java/org/sakaiproject/citation/util/api/SearchException.java
+END
+OsidConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-api/api/src/java/org/sakaiproject/citation/util/api/OsidConfigurationException.java
+END
+SearchCancelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-api/api/src/java/org/sakaiproject/citation/util/api/SearchCancelException.java
+END
+CQLSearchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-api/api/src/java/org/sakaiproject/citation/util/api/CQLSearchQuery.java
+END
+SearchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-api/api/src/java/org/sakaiproject/citation/util/api/SearchQuery.java
+END
+CQL2MetasearchCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-api/api/src/java/org/sakaiproject/citation/util/api/CQL2MetasearchCommand.java
+END

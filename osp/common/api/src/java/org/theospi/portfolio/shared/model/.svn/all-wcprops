@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model
+END
+OspException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/OspException.java
+END
+ItemDefinitionMimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/ItemDefinitionMimeType.java
+END
+CommonFormBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/CommonFormBean.java
+END
+WizardMatrixConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/WizardMatrixConstants.java
+END
+DateBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/DateBean.java
+END
+EvaluationContentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/EvaluationContentWrapper.java
+END
+IdentifiableIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/IdentifiableIdGenerator.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/Node.java
+END
+SortableListObjectComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/SortableListObjectComparator.java
+END
+TechnicalMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/TechnicalMetadata.java
+END
+ObjectWithWorkflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/ObjectWithWorkflow.java
+END
+SortableListObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/shared/model/SortableListObject.java
+END

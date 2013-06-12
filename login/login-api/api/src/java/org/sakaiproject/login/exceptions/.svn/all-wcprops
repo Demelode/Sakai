@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-api/api/src/java/org/sakaiproject/login/exceptions
+END
+LoginCredentialsNotDefinedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-api/api/src/java/org/sakaiproject/login/exceptions/LoginCredentialsNotDefinedException.java
+END
+LoginPenaltyNotConfiguredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-api/api/src/java/org/sakaiproject/login/exceptions/LoginPenaltyNotConfiguredException.java
+END

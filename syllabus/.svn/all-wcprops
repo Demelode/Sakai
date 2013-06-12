@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/122988/syllabus/branches/sakai-2.9.x
+END
+schema-export.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/101878/syllabus/branches/sakai-2.9.x/schema-export.bat
+END
+README_permissionChange.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/101878/syllabus/branches/sakai-2.9.x/README_permissionChange.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/104077/syllabus/branches/sakai-2.9.x/pom.xml
+END

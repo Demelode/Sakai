@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-api/api/src/java/org/sakaiproject/warehouse/service
+END
+ParentPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/ParentPropertyAccess.java
+END
+WarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/WarehouseTask.java
+END
+PropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/PropertyAccess.java
+END
+DataWarehouseManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/DataWarehouseManager.java
+END
+ChildWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/ChildWarehouseTask.java
+END
+ItemIndexInParentPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/ItemIndexInParentPropertyAccess.java
+END

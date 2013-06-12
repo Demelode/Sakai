@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/105596/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/tools
+END
+osp.wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/105596/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/tools/osp.wizard.xml
+END
+osp.wizard.run.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/tools/osp.wizard.run.xml
+END
+osp.exposedwizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/wizard/tool/src/webapp/tools/osp.exposedwizard.xml
+END

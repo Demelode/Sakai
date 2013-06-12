@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/security
+END
+Authorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/security/Authorization.java
+END
+AuthorizationFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/security/AuthorizationFacade.java
+END
+AuthorizationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/security/AuthorizationFailedException.java
+END
+AuthenticationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-api/api/src/java/org/sakaiproject/metaobj/security/AuthenticationManager.java
+END

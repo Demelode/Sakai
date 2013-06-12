@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/impl
+END
+AllowAllSecurityAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/impl/AllowAllSecurityAdvisor.java
+END
+AuthzShim.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/impl/AuthzShim.java
+END

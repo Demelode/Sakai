@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/114028/chat/branches/sakai-2.9.x/chat-tool/tool/src/java/org/sakaiproject/chat2/tool
+END
+DecoratedChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/java/org/sakaiproject/chat2/tool/DecoratedChatMessage.java
+END
+DecoratedSynopticOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/java/org/sakaiproject/chat2/tool/DecoratedSynopticOptions.java
+END
+ChatDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/104261/chat/branches/sakai-2.9.x/chat-tool/tool/src/java/org/sakaiproject/chat2/tool/ChatDelivery.java
+END
+ColorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/java/org/sakaiproject/chat2/tool/ColorMapper.java
+END
+DecoratedChatChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/java/org/sakaiproject/chat2/tool/DecoratedChatChannel.java
+END
+AlertDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/java/org/sakaiproject/chat2/tool/AlertDelivery.java
+END
+PresenceObserverHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/java/org/sakaiproject/chat2/tool/PresenceObserverHelper.java
+END
+ChatNavigationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/java/org/sakaiproject/chat2/tool/ChatNavigationHandler.java
+END
+ChatTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/114028/chat/branches/sakai-2.9.x/chat-tool/tool/src/java/org/sakaiproject/chat2/tool/ChatTool.java
+END

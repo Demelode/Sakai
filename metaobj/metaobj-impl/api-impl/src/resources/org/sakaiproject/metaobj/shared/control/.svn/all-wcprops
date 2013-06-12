@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control
+END
+formCreate.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/formCreate.xslt
+END
+passthrough.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/passthrough.xslt
+END
+customTest.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/customTest.xslt
+END
+formView.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/formView.xslt
+END
+formCreateShell.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/formCreateShell.xslt
+END
+formFieldTemplate.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/101844/metaobj/branches/sakai-2.9.x/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/formFieldTemplate.xslt
+END

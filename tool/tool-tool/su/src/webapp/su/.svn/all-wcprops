@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/117288/tool/branches/sakai-2.9.x/tool-tool/su/src/webapp/su
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/117288/tool/branches/sakai-2.9.x/tool-tool/su/src/webapp/su/main.jsp
+END
+redirect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/101884/tool/branches/sakai-2.9.x/tool-tool/su/src/webapp/su/redirect.jsp
+END
+title.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/101884/tool/branches/sakai-2.9.x/tool-tool/su/src/webapp/su/title.jsp
+END
+unauthorized.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/101884/tool/branches/sakai-2.9.x/tool-tool/su/src/webapp/su/unauthorized.jsp
+END

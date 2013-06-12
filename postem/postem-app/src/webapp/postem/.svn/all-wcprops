@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/main.jsp
+END
+upload_gradefile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/upload_gradefile.jsp
+END
+view_gradebook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/view_gradebook.jsp
+END
+main_student.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/main_student.jsp
+END
+preview_gradebook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/preview_gradebook.jsp
+END
+update_gradebook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/update_gradebook.jsp
+END
+view_grades.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/view_grades.jsp
+END
+permission_error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/permission_error.jsp
+END
+download_template.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/download_template.jsp
+END
+verify.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/verify.jsp
+END
+upload_template.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/upload_template.jsp
+END
+delete_confirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/delete_confirm.jsp
+END
+create_gradebook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/create_gradebook.jsp
+END
+view_student.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/view_student.jsp
+END
+Title.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/Title.jsp
+END
+download_csv.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/101856/postem/branches/sakai-2.9.x/postem-app/src/webapp/postem/download_csv.jsp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/118439/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl
+END
+DbCitationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/118326/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/DbCitationService.java
+END
+BaseConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/118439/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/BaseConfigurationService.java
+END
+BaseCitationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/118387/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/BaseCitationService.java
+END
+BaseSearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/117702/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/BaseSearchManager.java
+END
+BasicCitationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/118326/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/BasicCitationService.java
+END
+CitationListAccessServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/118326/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/CitationListAccessServlet.java
+END
+SampleSiteOsidConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/SampleSiteOsidConfiguration.java
+END
+SakaiOsidLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/101814/citations/branches/sakai-2.9.x/citations-impl/impl/src/java/org/sakaiproject/citation/impl/SakaiOsidLoader.java
+END

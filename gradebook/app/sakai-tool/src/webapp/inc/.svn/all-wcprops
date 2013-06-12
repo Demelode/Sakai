@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/sakai-tool/src/webapp/inc
+END
+codaEmbedded.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/sakai-tool/src/webapp/inc/codaEmbedded.jspf
+END
+preludeEmbedded.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/sakai-tool/src/webapp/inc/preludeEmbedded.jspf
+END
+preludeEmbeddedClassic.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/sakai-tool/src/webapp/inc/preludeEmbeddedClassic.jspf
+END

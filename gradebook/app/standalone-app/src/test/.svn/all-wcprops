@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/113396/gradebook/branches/sakai-2.9.x/app/standalone-app/src/test
+END
+spring-service-with-grade-mappings-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/test/spring-service-with-grade-mappings-test.xml
+END
+spring-beans-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/test/spring-beans-test.xml
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/113396/gradebook/branches/sakai-2.9.x/app/standalone-app/src/test/hibernate.properties
+END
+spring-hib-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/test/spring-hib-test.xml
+END

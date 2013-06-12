@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/filter/regex
+END
+RegexFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/filter/regex/RegexFilter.java
+END
+LocaleRegexTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/filter/regex/LocaleRegexTokenFilter.java
+END
+RegexTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/filter/regex/RegexTokenFilter.java
+END
+LocaleRegexReplaceFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/filter/regex/LocaleRegexReplaceFilter.java
+END
+RegexReplaceFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/radeox/src/java/org/radeox/filter/regex/RegexReplaceFilter.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/jrcs/src/test/org/apache/commons/jrcs/diff
+END
+SimpleDiffTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/jrcs/src/test/org/apache/commons/jrcs/diff/SimpleDiffTests.java
+END
+DiffTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/jrcs/src/test/org/apache/commons/jrcs/diff/DiffTest.java
+END
+MyersDiffTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-util/jrcs/src/test/org/apache/commons/jrcs/diff/MyersDiffTests.java
+END

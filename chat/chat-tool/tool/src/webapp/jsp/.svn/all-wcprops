@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/110620/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/main.jsp
+END
+synopticOptions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/synopticOptions.jsp
+END
+deleteMessageConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/deleteMessageConfirm.jsp
+END
+deleteRoomMessagesConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/deleteRoomMessagesConfirm.jsp
+END
+prelude.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/prelude.jspf
+END
+synoptic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/synoptic.jsp
+END
+roomMonitor.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110620/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/roomMonitor.jspf
+END
+listRooms.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/listRooms.jsp
+END
+room.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/room.jsp
+END
+deleteRoomConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/deleteRoomConfirm.jsp
+END
+roomUsers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/roomUsers.jsp
+END
+editRoom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/101811/chat/branches/sakai-2.9.x/chat-tool/tool/src/webapp/jsp/editRoom.jsp
+END

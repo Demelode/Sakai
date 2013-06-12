@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command
+END
+AddAttachmentReturnCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/AddAttachmentReturnCommand.java
+END
+BasicHttpCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/BasicHttpCommand.java
+END
+CommentSaveCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/CommentSaveCommand.java
+END
+EditManyAuthZGroupCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/EditManyAuthZGroupCommand.java
+END
+UpdatePreferencesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/UpdatePreferencesCommand.java
+END
+Dispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/Dispatcher.java
+END
+RevertCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/RevertCommand.java
+END
+SimpleCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/SimpleCommand.java
+END
+CommentNewCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/CommentNewCommand.java
+END
+EditAuthZGroupCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/EditAuthZGroupCommand.java
+END
+SaveCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/SaveCommand.java
+END
+UpdatePermissionsCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/UpdatePermissionsCommand.java
+END
+HelperCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/HelperCommand.java
+END

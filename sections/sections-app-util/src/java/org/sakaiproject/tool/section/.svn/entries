@@ -1,0 +1,37 @@
+10
+
+dir
+125008
+https://source.sakaiproject.org/svn/sections/branches/sakai-2.9.x/sections-app-util/src/java/org/sakaiproject/tool/section
+https://source.sakaiproject.org/svn
+
+
+
+2011-10-07T11:54:52.921169Z
+99053
+bkirschn@umich.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+decorator
+dir
+
+jsf
+dir
+
+facade
+dir
+

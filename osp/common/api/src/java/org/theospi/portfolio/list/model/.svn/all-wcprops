@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/model
+END
+ListConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/model/ListConfig.java
+END
+ColumnsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/model/ColumnsType.java
+END
+ColumnConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/model/ColumnConfig.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/api/src/java/org/theospi/portfolio/list/model/Column.java
+END

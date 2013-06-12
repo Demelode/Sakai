@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/122923/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources
+END
+sakai_create_html.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_create_html.vm
+END
+sakai_quota.vm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/113348/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_quota.vm
+END
+sakai_create_uploads.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/110624/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_create_uploads.vm
+END
+sakai_properties.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/122923/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_properties.vm
+END
+sakai_revise_text.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_revise_text.vm
+END
+sakai_properties_scripts.vm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/109849/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_properties_scripts.vm
+END
+sakai_metadata-edit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_metadata-edit.vm
+END
+sakai_access_text.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_access_text.vm
+END
+sakai_create_upload.vm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_create_upload.vm
+END
+sakai_create_text.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_create_text.vm
+END
+sakai_create_urls.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_create_urls.vm
+END
+sakai_replace_file.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/110624/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_replace_file.vm
+END
+sakai_revise_url.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_revise_url.vm
+END
+sakai_revise_html.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_revise_html.vm
+END
+sakai_create_folders.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_create_folders.vm
+END
+sakai_create_url.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/101820/content/branches/sakai-2.9.x/content-tool/tool/src/webapp/vm/resources/sakai_create_url.vm
+END

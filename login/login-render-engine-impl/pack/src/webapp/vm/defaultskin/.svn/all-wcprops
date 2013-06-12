@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-render-engine-impl/pack/src/webapp/vm/defaultskin
+END
+xlogin.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-render-engine-impl/pack/src/webapp/vm/defaultskin/xlogin.vm
+END
+macros.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/101835/login/branches/sakai-2.9.x/login-render-engine-impl/pack/src/webapp/vm/defaultskin/macros.vm
+END

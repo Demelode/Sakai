@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/jldap-integration-test/src/test/java/edu/amc/sakai/user
+END
+PropertyResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/jldap-integration-test/src/test/java/edu/amc/sakai/user/PropertyResolver.java
+END
+JLDAPDirectoryProviderIntegrationTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/jldap-integration-test/src/test/java/edu/amc/sakai/user/JLDAPDirectoryProviderIntegrationTestSuite.java
+END
+JLDAPDirectoryProviderIntegrationTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/jldap-integration-test/src/test/java/edu/amc/sakai/user/JLDAPDirectoryProviderIntegrationTestSupport.java
+END
+JLDAPDirectoryProviderIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/jldap-integration-test/src/test/java/edu/amc/sakai/user/JLDAPDirectoryProviderIntegrationTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/kerberos/src/test-bundle
+END
+sample-sakai-jaas.conf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/kerberos/src/test-bundle/sample-sakai-jaas.conf
+END
+sample-test_vi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/kerberos/src/test-bundle/sample-test_vi.properties
+END
+sample-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/kerberos/src/test-bundle/sample-test.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-model/schemabuild
+END
+mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-model/schemabuild/mysql.properties
+END
+oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-model/schemabuild/oracle.properties
+END
+hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-model/schemabuild/hsqldb.properties
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/101823/dav/branches/sakai-2.9.x/dav-server/src/java/org/sakaiproject/dav
+END
+DavRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/101823/dav/branches/sakai-2.9.x/dav-server/src/java/org/sakaiproject/dav/DavRealm.java
+END
+mbean-descriptor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101823/dav/branches/sakai-2.9.x/dav-server/src/java/org/sakaiproject/dav/mbean-descriptor.xml
+END

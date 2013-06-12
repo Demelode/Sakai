@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/122988/help/branches/sakai-2.9.x
+END
+schema-export.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/schema-export.bat
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/104029/help/branches/sakai-2.9.x/pom.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/README
+END

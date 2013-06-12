@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/117701/help/branches/sakai-2.9.x/help-tool/src/java/org/sakaiproject/tool/help
+END
+ContentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/117701/help/branches/sakai-2.9.x/help-tool/src/java/org/sakaiproject/tool/help/ContentServlet.java
+END
+URIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-tool/src/java/org/sakaiproject/tool/help/URIResolver.java
+END
+RestContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-tool/src/java/org/sakaiproject/tool/help/RestContentProvider.java
+END
+SearchTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-tool/src/java/org/sakaiproject/tool/help/SearchTool.java
+END
+QuestionTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-tool/src/java/org/sakaiproject/tool/help/QuestionTool.java
+END
+HelpTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-tool/src/java/org/sakaiproject/tool/help/HelpTool.java
+END
+TableOfContentsTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-tool/src/java/org/sakaiproject/tool/help/TableOfContentsTool.java
+END
+HelpJsfTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-tool/src/java/org/sakaiproject/tool/help/HelpJsfTool.java
+END
+TOCDisplayTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/110562/help/branches/sakai-2.9.x/help-tool/src/java/org/sakaiproject/tool/help/TOCDisplayTool.java
+END

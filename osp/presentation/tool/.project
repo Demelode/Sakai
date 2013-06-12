@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>osp-presentation-tool</name>
+  <comment>Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>osp-presentation-impl</project>
+    <project>osp-common-impl</project>
+    <project>sakai-metaobj-impl</project>
+    <project>sakai-metaobj-tool-lib</project>
+    <project>osp-common-tool-lib</project>
+    <project>osp-jsf-widgets</project>
+    <project>osp-glossary-tool-lib</project>
+    <project>osp-presentation-api</project>
+    <project>osp-presentation-tool-lib</project>
+    <project>osp-common-api</project>
+    <project>osp-wizard-api</project>
+    <project>sakai-metaobj-api</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

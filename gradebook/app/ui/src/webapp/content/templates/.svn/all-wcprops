@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/content/templates
+END
+gradebookItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/content/templates/gradebookItem.html
+END
+gradeGradebookItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/content/templates/gradeGradebookItem.html
+END
+authorizationFailed.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/content/templates/authorizationFailed.html
+END
+finishedHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/content/templates/finishedHelper.html
+END

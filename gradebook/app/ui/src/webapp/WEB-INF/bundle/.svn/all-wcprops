@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/122147/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle
+END
+messages_es_ES.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle/messages_es_ES.properties
+END
+messages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/116675/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle/messages_fr_FR.properties
+END
+messages_vi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle/messages_vi.properties
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/121846/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle/messages.properties
+END
+messages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/122146/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle/messages_ca.properties
+END
+messages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle/messages_pt_PT.properties
+END
+messages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle/messages_ru.properties
+END
+messages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/106567/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle/messages_sv.properties
+END
+messages_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle/messages_en_GB.properties
+END
+messages_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/122147/gradebook/branches/sakai-2.9.x/app/ui/src/webapp/WEB-INF/bundle/messages_mn.properties
+END

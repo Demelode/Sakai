@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/webapp/test
+END
+details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/webapp/test/details.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/webapp/test/login.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/webapp/test/logout.jsp
+END
+gradebooks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/standalone-app/src/webapp/test/gradebooks.jsp
+END

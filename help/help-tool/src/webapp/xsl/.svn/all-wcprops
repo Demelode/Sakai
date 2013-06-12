@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/help-tool/src/webapp/xsl
+END
+kb.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/help-tool/src/webapp/xsl/kb.xsl
+END
+kbxml-preprocess.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/help-tool/src/webapp/xsl/kbxml-preprocess.xsl
+END
+head.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/101829/help/branches/sakai-2.9.x/help-tool/src/webapp/xsl/head.xsl
+END

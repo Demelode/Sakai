@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/122988/osp/branches/sakai-2.9.x
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/116136/osp/branches/sakai-2.9.x/pom.xml
+END
+changelog.txt.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/changelog.txt.xsl
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/build.xml
+END
+ddl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/ddl.properties
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao
+END
+RWikiObjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/RWikiObjectDao.java
+END
+RWikiHistoryObjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/RWikiHistoryObjectDao.java
+END
+RWikiCurrentObjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/RWikiCurrentObjectDao.java
+END
+ObjectProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/ObjectProxy.java
+END
+RWikiObjectContentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/RWikiObjectContentDao.java
+END
+RWikiPropertyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/RWikiPropertyDao.java
+END

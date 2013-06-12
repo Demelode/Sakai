@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans
+END
+AssignmentGradeRecordBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/AssignmentGradeRecordBean.java
+END
+CommentCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/CommentCreator.java
+END
+GradebookItemBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/GradebookItemBean.java
+END
+AssignmentCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/AssignmentCreator.java
+END
+AssignmentGradeRecordCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/101826/gradebook/branches/sakai-2.9.x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/AssignmentGradeRecordCreator.java
+END

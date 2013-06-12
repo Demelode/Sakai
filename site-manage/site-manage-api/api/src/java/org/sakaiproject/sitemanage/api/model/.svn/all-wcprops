@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model
+END
+SiteTypeQuestions.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model/SiteTypeQuestions.java
+END
+SiteSetupUserAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model/SiteSetupUserAnswer.java
+END
+SiteSetupQuestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model/SiteSetupQuestion.java
+END
+SiteSetupQuestionAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model/SiteSetupQuestionAnswer.java
+END
+SiteSetupQuestionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model/SiteSetupQuestionService.java
+END

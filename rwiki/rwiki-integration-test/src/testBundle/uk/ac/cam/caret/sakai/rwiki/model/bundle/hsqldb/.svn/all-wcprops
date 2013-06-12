@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-integration-test/src/testBundle/uk/ac/cam/caret/sakai/rwiki/model/bundle/hsqldb
+END
+migrateTo20051017.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-integration-test/src/testBundle/uk/ac/cam/caret/sakai/rwiki/model/bundle/hsqldb/migrateTo20051017.sql
+END
+migrateTo20051026.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-integration-test/src/testBundle/uk/ac/cam/caret/sakai/rwiki/model/bundle/hsqldb/migrateTo20051026.sql
+END
+migrateTo20051107.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/101869/rwiki/branches/sakai-2.9.x/rwiki-integration-test/src/testBundle/uk/ac/cam/caret/sakai/rwiki/model/bundle/hsqldb/migrateTo20051107.sql
+END

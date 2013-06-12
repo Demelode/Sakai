@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/120018/warehouse/branches/sakai-2.9.x/warehouse-impl/pack
+END
+.ignore
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/101893/warehouse/branches/sakai-2.9.x/warehouse-impl/pack/.ignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/120018/warehouse/branches/sakai-2.9.x/warehouse-impl/pack/pom.xml
+END

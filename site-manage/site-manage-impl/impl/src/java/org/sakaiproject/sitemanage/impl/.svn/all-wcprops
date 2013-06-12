@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124192/site-manage/branches/sakai-2.9.x/site-manage-impl/impl/src/java/org/sakaiproject/sitemanage/impl
+END
+SiteSetupQuestionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-impl/impl/src/java/org/sakaiproject/sitemanage/impl/SiteSetupQuestionServiceImpl.java
+END
+UserNotificationProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/116881/site-manage/branches/sakai-2.9.x/site-manage-impl/impl/src/java/org/sakaiproject/sitemanage/impl/UserNotificationProviderImpl.java
+END
+SiteTypeProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/118849/site-manage/branches/sakai-2.9.x/site-manage-impl/impl/src/java/org/sakaiproject/sitemanage/impl/SiteTypeProviderImpl.java
+END
+SectionFieldProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-impl/impl/src/java/org/sakaiproject/sitemanage/impl/SectionFieldProviderImpl.java
+END
+AffiliatedSectionProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-impl/impl/src/java/org/sakaiproject/sitemanage/impl/AffiliatedSectionProviderImpl.java
+END
+SectionFieldImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/101875/site-manage/branches/sakai-2.9.x/site-manage-impl/impl/src/java/org/sakaiproject/sitemanage/impl/SectionFieldImpl.java
+END
+ETSUserNotificationProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/124192/site-manage/branches/sakai-2.9.x/site-manage-impl/impl/src/java/org/sakaiproject/sitemanage/impl/ETSUserNotificationProviderImpl.java
+END

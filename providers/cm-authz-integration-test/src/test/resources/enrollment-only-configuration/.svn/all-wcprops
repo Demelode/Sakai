@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/cm-authz-integration-test/src/test/resources/enrollment-only-configuration
+END
+sakai.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/cm-authz-integration-test/src/test/resources/enrollment-only-configuration/sakai.properties
+END
+sakai-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/101859/providers/branches/sakai-2.9.x/cm-authz-integration-test/src/test/resources/enrollment-only-configuration/sakai-configuration.xml
+END

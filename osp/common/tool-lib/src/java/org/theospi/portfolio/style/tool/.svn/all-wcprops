@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/tool-lib/src/java/org/theospi/portfolio/style/tool
+END
+ListStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/tool-lib/src/java/org/theospi/portfolio/style/tool/ListStyleController.java
+END
+SelectStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/tool-lib/src/java/org/theospi/portfolio/style/tool/SelectStyleController.java
+END
+StyleValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/tool-lib/src/java/org/theospi/portfolio/style/tool/StyleValidator.java
+END
+DeleteStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/tool-lib/src/java/org/theospi/portfolio/style/tool/DeleteStyleController.java
+END
+AbstractStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/tool-lib/src/java/org/theospi/portfolio/style/tool/AbstractStyleController.java
+END
+PublishStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/tool-lib/src/java/org/theospi/portfolio/style/tool/PublishStyleController.java
+END
+AddStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/101847/osp/branches/sakai-2.9.x/common/tool-lib/src/java/org/theospi/portfolio/style/tool/AddStyleController.java
+END
