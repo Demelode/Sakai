@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<project name="maven-antrun-" default="main"  >
-<target name="main">
-  <concat append="true" destfile="/Users/Jon/d/c/sakai/sakai-src/config/configuration/bundles/target/classes/org/sakaiproject/config/bundle/default.sakai.properties">
-    <fileset dir="/Users/Jon/d/c/sakai/sakai-src/config/configuration/bundles/target/classes" includes="**/auto.sakai.properties"/>
-  </concat>
-</target>
-</project>
