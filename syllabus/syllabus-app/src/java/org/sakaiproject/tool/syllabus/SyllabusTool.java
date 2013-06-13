@@ -43,7 +43,6 @@ import org.sakaiproject.api.app.syllabus.SyllabusData;
 import org.sakaiproject.api.app.syllabus.SyllabusItem;
 import org.sakaiproject.api.app.syllabus.SyllabusTemplate;
 import org.sakaiproject.api.app.syllabus.SyllabusManager; 
-// import org.sakaiproject.api.app.syllabus.SyllabusTemplateManager;
 import org.sakaiproject.api.app.syllabus.SyllabusService;
 import org.sakaiproject.component.cover.ServerConfigurationService;
 import org.sakaiproject.content.api.ContentHostingService;
@@ -188,8 +187,6 @@ public class SyllabusTool
   }
 
   protected SyllabusManager syllabusManager;
-
-  // protected SyllabusTemplateManager syllabusTemplateManager;
 
   protected SyllabusItem syllabusItem;
 
@@ -2116,11 +2113,6 @@ public class SyllabusTool
   *    TEMPLATE SECTION    *
   *                        *
   *************************/
- 
-  // public SyllabusTemplateManager getSyllabusTemplateManager()
-  // {
-  //   return syllabusTemplateManager;
-  // }
 
   public String processTemplate() throws PermissionException
   {
