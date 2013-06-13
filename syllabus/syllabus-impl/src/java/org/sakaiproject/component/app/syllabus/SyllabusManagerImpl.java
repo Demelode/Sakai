@@ -633,6 +633,9 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
     return attach;
   }*/
 
+/*******************************
+ * SYLLABUS TEMPLATE FUNCTIONS *
+ *******************************/
 
   /**
    * createSyllabusTemplate creates a new SyllabusTemplate
@@ -642,17 +645,16 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
    * @param content
    * @return syllabusTemplate  
    */
-  public SyllabusTemplate createSyllabusTemplate(String userId, String contextId,
-      String title, String content)
+  public SyllabusTemplate createSyllabusTemplate(String title, Integer position, String content)
   {
-    if (userId == null || contextId == null || title == null)
+    if (title == null || position == null) // content can be null
     {
       throw new IllegalArgumentException("Null Argument");
     }
     else
     {
       // construct a new SyllabusTemplate
-      SyllabusTemplate syllabusTemplate = new SyllabusTemplateImpl(userId, contextId, title, content);      
+      SyllabusTemplate syllabusTemplate = new SyllabusTemplateImpl(title, position, content);      
       saveSyllabusTemplate(syllabusTemplate);
       return syllabusTemplate;
     }
@@ -743,7 +745,7 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
             SQLException
         {            
           Query q = session.getNamedQuery(QUERY_LARGEST_TEMPLATE_POSITION);                
-          q.setParameter(FOREIGN_KEY, syllabusTemplate.getSurrogateKey(), Hibernate.LONG);
+          // q.setParameter(FOREIGN_KEY, syllabusTemplate.getSurrogateKey(), Hibernate.LONG);
           
           Integer position = (Integer) q.uniqueResult();
           

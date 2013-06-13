@@ -40,35 +40,13 @@ public interface SyllabusTemplate
   public void setTemplateTitle(String title);
 
   /**
-   * @return Returns the contextId.
+   * @return Returns the position.
    */
-  public String getContextId();
+  public Integer getPosition();
 
   /**
-   * @param contextId The contextId to set.
+   * @param position The position to set.
    */
-  public void setContextId(String contextId);
+  public void setPosition(Integer position);
 
-  /**
-   * @return Returns the lockId.
-   */
-  public Integer getLockId();
-
-  /**
-   * @return Returns the surrogateKey.
-   */
-  public Long getSurrogateKey();
-
-  /**
-   * @return Returns the userId.
-   */
-  public String getUserId();
-
-  /**
-   * @param userId The userId to set.
-   */
-  public void setUserId(String userId);
 }
-
-
-

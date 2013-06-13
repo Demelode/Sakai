@@ -18,12 +18,9 @@ import org.sakaiproject.api.app.syllabus.SyllabusTemplate;
 
 public class SyllabusTemplateImpl implements SyllabusTemplate
 {
-  private Long surrogateKey;
-  private String userId;
-  private String contextId;
+  private Integer position;
   private String title;
   private String content;
-  private Integer lockId; // optimistic lock
   
   private Set template = new TreeSet();
   
@@ -37,23 +34,21 @@ public class SyllabusTemplateImpl implements SyllabusTemplate
   
   
   /**
-   * @param userId
-   * @param contextId
    * @param title
+   * @param position
    * @param content
    *        SyllabusEntry Constructor. Package protected.
    */
-  public SyllabusTemplateImpl(String userId, String contextId, String title, String content)
+  public SyllabusTemplateImpl(String title, Integer position, String content)
   {
 
-    if (userId == null || contextId == null)
+    if (title == null || position == null)
     {
       throw new IllegalArgumentException();
     }
     
-    this.userId = userId;    
-    this.contextId = contextId;
     this.title = title;    
+    this.position = position; 
     this.content = content;
   }    
 
@@ -107,62 +102,19 @@ public class SyllabusTemplateImpl implements SyllabusTemplate
 
 
   /**
-   * @return Returns the contextId.
+   * @return Returns the position.
    */
-  public String getContextId()
+  public Integer getPosition()
   {
-    return contextId;
+    return position;
   }
   /**
-   * @param contextId The contextId to set.
+   * @param position The position to set.
    */
-  public void setContextId(String contextId)
+  public void setPosition(Integer position)
   {
-    this.contextId = contextId;
+    this.position = position;
   }  
-  /**
-   * @return Returns the lockId.
-   */
-  public Integer getLockId()
-  {
-    return lockId;
-  }
-  /**
-   * @param lockId The lockId to set.
-   */
-  public void setLockId(Integer lockId)
-  {
-    this.lockId = lockId;
-  }
-  /**
-   * @return Returns the surrogateKey.
-   */
-  public Long getSurrogateKey()
-  {
-    return surrogateKey;
-  }
-  /**
-   * @param surrogateKey The surrogateKey to set.
-   */
-  private void setSurrogateKey(Long surrogateKey)
-  {
-    this.surrogateKey = surrogateKey;
-  }  
-  /**
-   * @return Returns the userId.
-   */
-  public String getUserId()
-  {
-    return userId;
-  }
-  /**
-   * @param userId The userId to set.
-   */
-  public void setUserId(String userId)
-  {
-    this.userId = userId;
-  }
-
   
   /**
    * @see java.lang.Object#equals(java.lang.Object)
@@ -173,9 +125,7 @@ public class SyllabusTemplateImpl implements SyllabusTemplate
     if (!(obj instanceof SyllabusTemplateImpl)) return false;
     SyllabusTemplateImpl other = (SyllabusTemplateImpl) obj;
 
-    if ((userId == null ? other.userId == null : userId
-        .equals(other.userId))        
-        && (contextId == null ? other.contextId == null : contextId.equals(other.contextId))
+    if ((position == null ? other.position == null : position.equals(other.position))
         && (title == null ? other.title == null : title.equals(other.title)))
     {
       return true;
@@ -184,31 +134,17 @@ public class SyllabusTemplateImpl implements SyllabusTemplate
   }
 
   /**
-   * @see java.lang.Object#hashCode()
-   */
-  public int hashCode()
-  {
-    return userId.hashCode() + contextId.hashCode();
-  }
-
-  /**
    * @see java.lang.Object#toString()
    */
   public String toString()
   {
-    StringBuilder sb = new StringBuilder();
-    sb.append("{surrogateKey=");
-    sb.append(surrogateKey);
-    sb.append(", userId=");
-    sb.append(userId);    
-    sb.append(", contextId=");
-    sb.append(contextId);
+    StringBuilder sb = new StringBuilder(); 
+    sb.append(", position=");
+    sb.append(position);
     sb.append(", title=");
     sb.append(title);
     sb.append(", content=");
     sb.append(content);       
-    sb.append(", lockId=");
-    sb.append(lockId);
     sb.append("}");
     return sb.toString();
   }   
