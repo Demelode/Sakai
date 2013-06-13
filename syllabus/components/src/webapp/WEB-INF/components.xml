@@ -14,9 +14,9 @@
 				<value>
 					org/sakaiproject/component/app/syllabus/SyllabusAttachment.hbm.xml
 				</value>
-                <value>
+<!--                 <value>
                     org/sakaiproject/component/app/syllabus/SyllabusTemplateImpl.hbm.xml
-                </value>
+                </value> -->
 			</list>
 		</property>
 	</bean>
@@ -46,7 +46,7 @@
 		</property>
 	</bean>
 	
-    <bean id="org.sakaiproject.api.app.syllabus.SyllabusTemplateManager"
+    <!-- <bean id="org.sakaiproject.api.app.syllabus.SyllabusTemplateManager"
         class="org.springframework.transaction.interceptor.TransactionProxyFactoryBean">
         <property name="transactionManager">
             <ref bean="org.sakaiproject.springframework.orm.hibernate.GlobalTransactionManager" />
@@ -69,7 +69,7 @@
                 <prop key="*">PROPAGATION_REQUIRED</prop>
             </props>
         </property>
-    </bean>
+    </bean> -->
 
 	<bean id="org.sakaiproject.api.app.syllabus.SyllabusService"
 		class="org.sakaiproject.component.app.syllabus.SyllabusServiceImpl"

@@ -43,7 +43,7 @@ import org.sakaiproject.api.app.syllabus.SyllabusData;
 import org.sakaiproject.api.app.syllabus.SyllabusItem;
 import org.sakaiproject.api.app.syllabus.SyllabusTemplate;
 import org.sakaiproject.api.app.syllabus.SyllabusManager; 
-import org.sakaiproject.api.app.syllabus.SyllabusTemplateManager;
+// import org.sakaiproject.api.app.syllabus.SyllabusTemplateManager;
 import org.sakaiproject.api.app.syllabus.SyllabusService;
 import org.sakaiproject.component.cover.ServerConfigurationService;
 import org.sakaiproject.content.api.ContentHostingService;
