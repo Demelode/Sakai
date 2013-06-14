@@ -2167,14 +2167,14 @@ public class SyllabusTool
   
   public String processTemplateCancel()
   {
-    syllabusTemplate = null;
+    setSyllabusTemplate(null);
 
     return "main_edit";
   }
   
   public String processTemplateSelectTemplateCancel()
   {
-    syllabusTemplate = null;
+    setSyllabusTemplate(null);
 
     return "main_edit_template";
   }
@@ -2183,9 +2183,10 @@ public class SyllabusTool
   {
     try
     {
-      if (syllabusTemplate != null)
+      if (getSyllabusTemplate() != null)
       {
         syllabusManager.removeSyllabusTemplate(syllabusTemplate);
+        setSyllabusTemplate(null);
       }
     }
     catch(Exception e)
@@ -2195,7 +2196,7 @@ public class SyllabusTool
     }
     displayTitleErroMsg = false;
     displayEvilTagMsg = false;
-    syllabusTemplate = null;
+    setSyllabusTemplate(null);
 
     return "main_edit_template";
   }
@@ -2268,7 +2269,6 @@ public class SyllabusTool
 
   public String processListNewTemplate() throws PermissionException
   {
-
     try
     {
       if (!this.checkAccess())
@@ -2277,10 +2277,10 @@ public class SyllabusTool
       }
       else
       {
-        int initPosition = syllabusManager.findLargestSyllabusTemplatePosition(syllabusTemplate).intValue() + 1;
-        SyllabusTemplate en = syllabusManager.createSyllabusTemplate("draft template",
-            new Integer(initPosition), null); // title, position, content
-        syllabusTemplate = en;
+        // int initPosition = syllabusManager.findLargestSyllabusTemplatePosition().intValue() + 1;
+        int initPosition = 0; // temp test
+        Integer tempInt = new Integer(initPosition);
+        setSyllabusTemplate(getSyllabusManager().createSyllabusTemplate("draft template", tempInt, "")); // title, position, content
 
         return "edit_template";
       }
@@ -2307,7 +2307,7 @@ public class SyllabusTool
       }
       else
       {
-        syllabusTemplate = null;
+        setSyllabusTemplate(null);
       }
 
       return "main_edit_template";
@@ -2321,6 +2321,16 @@ public class SyllabusTool
               "error_general", (new Object[] { e.toString() })));
     }
     return null;
+  }
+
+  public SyllabusTemplate getSyllabusTemplate()
+  {
+    return this.syllabusTemplate;
+  }
+
+  public void setSyllabusTemplate(SyllabusTemplate template)
+  {
+    this.syllabusTemplate = template;
   }
 
 }

@@ -639,9 +639,8 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
 
   /**
    * createSyllabusTemplate creates a new SyllabusTemplate
-   * @param userId
-   * @param contextId
    * @param title
+   * @param position
    * @param content
    * @return syllabusTemplate  
    */
@@ -653,10 +652,13 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
     }
     else
     {
-      // construct a new SyllabusTemplate
-      SyllabusTemplate syllabusTemplate = new SyllabusTemplateImpl(title, position, content);      
-      saveSyllabusTemplate(syllabusTemplate);
-      return syllabusTemplate;
+      SyllabusTemplate syl = new SyllabusTemplateImpl();  
+      syl.setTemplateTitle(title);
+      syl.setPosition(position); 
+      syl.setTemplateContent(content);  
+
+      saveSyllabusTemplate(syl); 
+      return syl;
     }
   }
 
@@ -731,35 +733,28 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
    * findLargestSyllabusTemplatePosition finds the largest syllabus template position for an item
    * @param syllabusTemplate
    */
-  public Integer findLargestSyllabusTemplatePosition(final SyllabusTemplate syllabusTemplate)      
+  public Integer findLargestSyllabusTemplatePosition()      
   {
-    if (syllabusTemplate == null)
-    {
-      throw new IllegalArgumentException("Null Argument");
-    }
-    else
-    {
-      HibernateCallback hcb = new HibernateCallback()
-      {                
-        public Object doInHibernate(Session session) throws HibernateException,
-            SQLException
-        {            
-          Query q = session.getNamedQuery(QUERY_LARGEST_TEMPLATE_POSITION);                
-          // q.setParameter(FOREIGN_KEY, syllabusTemplate.getSurrogateKey(), Hibernate.LONG);
+    return new Integer(0); // temp testing
+
+      // HibernateCallback hcb = new HibernateCallback()
+      // {                
+      //   public Object doInHibernate(Session session) throws HibernateException, SQLException
+      //   {            
+      //     // Query q = session.getNamedQuery(QUERY_LARGEST_TEMPLATE_POSITION);                
+      //     // Integer position = (Integer) q.uniqueResult();
+      //     Integer position = new Integer(0); // temp
+
+      //     if (position == null){
+      //       return new Integer(0);
+      //     }
+      //     else{
+      //       return position;
+      //     }
           
-          Integer position = (Integer) q.uniqueResult();
-          
-          if (position == null){
-            return new Integer(0);
-          }
-          else{
-            return position;
-          }
-          
-        }
-      };
-      return (Integer) getHibernateTemplate().execute(hcb);
-    }
+      //   }
+      // };
+      // return (Integer) getHibernateTemplate().execute(hcb);
   }    
 
   public void removeSyllabusTemplate(SyllabusTemplate syllabusTemplate)

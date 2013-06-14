@@ -86,5 +86,5 @@ public interface SyllabusManager
 
   public SyllabusTemplate getSyllabusTemplateByUserAndContextIds(final String userId, final String contextId);
   
-  public Integer findLargestSyllabusTemplatePosition(final SyllabusTemplate syllabusTemplate);
+  public Integer findLargestSyllabusTemplatePosition();
 }

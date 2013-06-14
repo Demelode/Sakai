@@ -1,10 +1,5 @@
 package org.sakaiproject.component.app.syllabus;
 
-
-import java.util.Set;
-
-import java.util.TreeSet;
-
 import org.sakaiproject.api.app.syllabus.SyllabusTemplate;
 
 /**
@@ -22,52 +17,13 @@ public class SyllabusTemplateImpl implements SyllabusTemplate
   private String title;
   private String content;
   
-  private Set template = new TreeSet();
-  
   /**
    *  Public no-arg Constructor.
    */
   public SyllabusTemplateImpl(){
     
     ;
-  }
-  
-  
-  /**
-   * @param title
-   * @param position
-   * @param content
-   *        SyllabusEntry Constructor. Package protected.
-   */
-  public SyllabusTemplateImpl(String title, Integer position, String content)
-  {
-
-    if (title == null || position == null)
-    {
-      throw new IllegalArgumentException();
-    }
-    
-    this.title = title;    
-    this.position = position; 
-    this.content = content;
-  }    
-
-  
-  /**
-   * @return Returns the template.
-   */
-  public Set getTemplate()
-  {
-    return template;
-  }
-  /**
-   * @param syllabi The syllabi template to set.
-   */
-  public void setTemplate(Set template)
-  {
-    this.template = template;
-  }
-
+  } 
 
   /**
    * @return Returns the template title.
