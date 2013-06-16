@@ -26,6 +26,7 @@ public interface SyllabusData
 {
  	public final String ITEM_POSTED="posted";
  	public final String ITEM_DRAFT= "draft";
+  public final String ITEM_TEMPLATE= "template";
   /**
    * @return Returns the emailNotification.
    */
@@ -109,10 +110,6 @@ public interface SyllabusData
   public Set getAttachments();
   
   public void setAttachments(Set attachments);
-
-  public void setTemplate(boolean isTemplate);
-
-  public boolean isTemplate();
 }
 
 

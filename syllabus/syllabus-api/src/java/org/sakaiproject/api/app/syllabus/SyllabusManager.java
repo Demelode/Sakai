@@ -40,7 +40,7 @@ public interface SyllabusManager
   public void removeSyllabusFromSyllabusItem(final SyllabusItem syllabusItem, final SyllabusData syllabusData);
   
   public SyllabusData createSyllabusDataObject(String title, Integer position,
-      String assetId, String view, String status, String emailNotification, boolean isTemplate);
+      String assetId, String view, String status, String emailNotification);
   
   public void removeSyllabusDataObject(SyllabusData o);
   

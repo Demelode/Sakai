@@ -144,7 +144,7 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
    * @param emailNotification 
    */
   public SyllabusData createSyllabusDataObject(String title, Integer position,
-        String asset, String view, String status, String emailNotification, boolean isTemplate)      
+        String asset, String view, String status, String emailNotification)      
   {
     if (position == null)
     {
@@ -160,7 +160,6 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
       data.setView(view);
       data.setStatus(status);
       data.setEmailNotification(emailNotification);
-      data.setTemplate(isTemplate); // is a template 
             
       saveSyllabus(data);
       return data;
