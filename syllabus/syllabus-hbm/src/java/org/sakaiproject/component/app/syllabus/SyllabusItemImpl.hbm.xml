@@ -32,7 +32,7 @@
         <property name="redirectURL">
             <column name="redirectURL" not-null="false" length="512"/>
         </property>
-        
+
         <set name="syllabi" lazy="true" sort="natural"
              order-by="position_c asc" cascade="all-delete-orphan">
             <key column="surrogateKey"/>                        

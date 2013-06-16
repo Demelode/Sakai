@@ -109,6 +109,10 @@ public interface SyllabusData
   public Set getAttachments();
   
   public void setAttachments(Set attachments);
+
+  public void setTemplate(boolean isTemplate);
+
+  public boolean isTemplate();
 }
 
 

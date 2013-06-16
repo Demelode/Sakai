@@ -43,6 +43,10 @@
             <column name="emailNotification" length="128" not-null="false"/>
         </property>                        
         
+        <property name="isTemplate">
+            <column name="isTemplate" length="36" not-null="true"/>
+        </property>  
+
         <set name="attachments" lazy="true" sort="natural"
              cascade="all-delete-orphan">
             <key column="syllabusId"/>                        
