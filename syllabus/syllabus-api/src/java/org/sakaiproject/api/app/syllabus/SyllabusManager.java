@@ -76,7 +76,7 @@ public interface SyllabusManager
   
   //public SyllabusAttachment creatSyllabusAttachmentResource(String attachId, String name);
 
-  public SyllabusTemplate createSyllabusTemplate(String title, Integer position, String content);
+  public SyllabusTemplate createSyllabusTemplate(String title, Integer posId, String content);
 
   public void saveSyllabusTemplate(SyllabusTemplate syllabusTemplate);
 

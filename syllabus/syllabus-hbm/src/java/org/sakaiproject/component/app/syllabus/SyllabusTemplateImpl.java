@@ -3,8 +3,7 @@ package org.sakaiproject.component.app.syllabus;
 import org.sakaiproject.api.app.syllabus.SyllabusTemplate;
 
 /**
- * A syllabus template contains information relating to a syllabus template and an order
- * within a particular context (site).
+ * A syllabus template contains information relating to a syllabus template.
  * 
  * @author Jon Demelo
  * @version $Id: 
@@ -13,17 +12,31 @@ import org.sakaiproject.api.app.syllabus.SyllabusTemplate;
 
 public class SyllabusTemplateImpl implements SyllabusTemplate
 {
-  private Integer position;
   private String title;
   private String content;
-  
-  /**
-   *  Public no-arg Constructor.
-   */
-  public SyllabusTemplateImpl(){
-    
+
+  private Long surrogateKey;
+  private Integer posId;
+  private Integer lockId; // optimistic lock
+
+  public SyllabusTemplateImpl()
+  {  
     ;
-  } 
+  }
+
+  // public SyllabusTemplateImpl(String title, Integer posId, String content)
+  // {
+
+  //   if (posId == null || title == null)
+  //   {
+  //     throw new IllegalArgumentException();
+  //   }
+   
+  //   this.posId = posId;
+
+  //   this.title = title;
+  //   this.content = content;
+  // } 
 
   /**
    * @return Returns the template title.
@@ -32,6 +45,7 @@ public class SyllabusTemplateImpl implements SyllabusTemplate
   {
     return title;
   }
+
   /**
    * @param syllabi The syllabi template title to set.
    */
@@ -40,7 +54,6 @@ public class SyllabusTemplateImpl implements SyllabusTemplate
     this.title = title;
   }
 
-
   /**
    * @return Returns the template content.
    */
@@ -48,6 +61,7 @@ public class SyllabusTemplateImpl implements SyllabusTemplate
   {
     return content;
   }
+
   /**
    * @param syllabi The syllabi template content to set.
    */
@@ -56,32 +70,56 @@ public class SyllabusTemplateImpl implements SyllabusTemplate
     this.content = content;
   }
 
-
-  /**
-   * @return Returns the position.
+/**
+   * @return Returns the posId.
    */
-  public Integer getPosition()
+  public Integer getPosId()
   {
-    return position;
+    return posId;
   }
   /**
-   * @param position The position to set.
+   * @param posId The posId to set.
    */
-  public void setPosition(Integer position)
+  public void setPosId(Integer posId)
   {
-    this.position = position;
+    this.posId = posId;
   }  
-  
   /**
-   * @see java.lang.Object#equals(java.lang.Object)
+   * @return Returns the lockId.
    */
+  public Integer getLockId()
+  {
+    return lockId;
+  }
+  /**
+   * @param lockId The lockId to set.
+   */
+  public void setLockId(Integer lockId)
+  {
+    this.lockId = lockId;
+  }
+  /**
+   * @return Returns the surrogateKey.
+   */
+  public Long getSurrogateKey()
+  {
+    return surrogateKey;
+  }
+  /**
+   * @param surrogateKey The surrogateKey to set.
+   */
+  public void setSurrogateKey(Long surrogateKey)
+  {
+    this.surrogateKey = surrogateKey;
+  }  
+
   public boolean equals(Object obj)
   {
     if (this == obj) return true;
     if (!(obj instanceof SyllabusTemplateImpl)) return false;
     SyllabusTemplateImpl other = (SyllabusTemplateImpl) obj;
 
-    if ((position == null ? other.position == null : position.equals(other.position))
+    if ((posId == null ? other.posId == null : posId.equals(other.posId))
         && (title == null ? other.title == null : title.equals(other.title)))
     {
       return true;
@@ -89,19 +127,26 @@ public class SyllabusTemplateImpl implements SyllabusTemplate
     return false;
   }
 
-  /**
-   * @see java.lang.Object#toString()
-   */
+  public int hashCode()
+  {
+    return posId.hashCode();
+  }
+
   public String toString()
   {
-    StringBuilder sb = new StringBuilder(); 
-    sb.append(", position=");
-    sb.append(position);
+  StringBuilder sb = new StringBuilder();
+    sb.append("{surrogateKey=");
+    sb.append(surrogateKey); 
+    sb.append(", posId=");
+    sb.append(posId);
     sb.append(", title=");
     sb.append(title);
     sb.append(", content=");
-    sb.append(content);       
+    sb.append(content);      
+    sb.append(", lockId=");
+    sb.append(lockId);
     sb.append("}");
     return sb.toString();
-  }   
+  } 
+ 
 }

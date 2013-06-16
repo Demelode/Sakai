@@ -644,20 +644,16 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
    * @param content
    * @return syllabusTemplate  
    */
-  public SyllabusTemplate createSyllabusTemplate(String title, Integer position, String content)
+  public SyllabusTemplate createSyllabusTemplate(String title, Integer posId, String content)
   {
-    if (title == null || position == null) // content can be null
+    if (title == null || posId == null) // content can be null
     {
       throw new IllegalArgumentException("Null Argument");
     }
     else
     {
-      SyllabusTemplate syl = new SyllabusTemplateImpl();  
-      syl.setTemplateTitle(title);
-      syl.setPosition(position); 
-      syl.setTemplateContent(content);  
-
-      saveSyllabusTemplate(syl); 
+      SyllabusTemplate syl = new SyllabusTemplateImpl();
+      this.saveSyllabusTemplate(syl); 
       return syl;
     }
   }

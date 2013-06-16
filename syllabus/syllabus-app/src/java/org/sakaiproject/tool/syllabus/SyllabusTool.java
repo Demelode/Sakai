@@ -2280,7 +2280,9 @@ public class SyllabusTool
         // int initPosition = syllabusManager.findLargestSyllabusTemplatePosition().intValue() + 1;
         int initPosition = 0; // temp test
         Integer tempInt = new Integer(initPosition);
-        setSyllabusTemplate(getSyllabusManager().createSyllabusTemplate("draft template", tempInt, "")); // title, position, content
+        SyllabusTemplate tempTemplate = getSyllabusManager().createSyllabusTemplate("draft template", tempInt, ""); //title, posId, content
+
+        setSyllabusTemplate(tempTemplate);
 
         return "edit_template";
       }
