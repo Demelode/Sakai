@@ -44,7 +44,7 @@
         </property>                        
         
         <property name="isTemplate">
-            <column name="isTemplate" length="36" not-null="true"/>
+            <column name="isTemplate" length="36" not-null="false"/>
         </property>  
 
         <set name="attachments" lazy="true" sort="natural"

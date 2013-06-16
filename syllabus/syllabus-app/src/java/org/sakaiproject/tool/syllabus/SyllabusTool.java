@@ -905,7 +905,7 @@ public class SyllabusTool
         int initPosition = syllabusManager.findLargestSyllabusPosition(
             syllabusItem).intValue() + 1;
         SyllabusData en = syllabusManager.createSyllabusDataObject(null,
-            new Integer(initPosition), null, null, SyllabusData.ITEM_DRAFT, "none", false); // TODO: BOOKMARKED
+            new Integer(initPosition), null, null, SyllabusData.ITEM_DRAFT, "none", "f"); // TODO: BOOKMARKED
         en.setView("no");
 
         entry = new DecoratedSyllabusEntry(en);
@@ -2288,10 +2288,9 @@ public class SyllabusTool
       }
       else
       {
-        int initPosition = syllabusManager.findLargestSyllabusPosition(
-            syllabusItem).intValue() + 1;
+        int initPosition = syllabusManager.findLargestSyllabusPosition(syllabusItem).intValue() + 1;
         SyllabusData en = syllabusManager.createSyllabusDataObject(null,
-            new Integer(initPosition), null, null, SyllabusData.ITEM_DRAFT, "none", true); // TODO: BOOKMARKED
+            new Integer(initPosition), null, null, SyllabusData.ITEM_DRAFT, "none", "t"); // TODO: BOOKMARKED
         en.setView("no");
 
         entry = new DecoratedSyllabusEntry(en);

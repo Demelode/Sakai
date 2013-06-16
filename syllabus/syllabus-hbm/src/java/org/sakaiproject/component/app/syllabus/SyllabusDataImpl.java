@@ -48,7 +48,7 @@ public class SyllabusDataImpl implements SyllabusData, Comparable
   private String emailNotification;
   private Set attachments = new TreeSet();
 
-  private boolean isTemplate;
+  private String isTemplate;
   
   /**
    * @return Returns the emailNotification.
@@ -253,7 +253,7 @@ public class SyllabusDataImpl implements SyllabusData, Comparable
    /**
    * @param isTemplate The boolean value of if the data is a template
    */
-  public void setTemplate(boolean isTemplate)
+  public void setTemplate(String isTemplate)
   {
     this.isTemplate = isTemplate;
   }
@@ -261,7 +261,7 @@ public class SyllabusDataImpl implements SyllabusData, Comparable
   /*
    * @return isTemplate If the data is a template or not.
    */
-  public boolean isTemplate()
+  public String isTemplate()
   {
     return this.isTemplate;
   }

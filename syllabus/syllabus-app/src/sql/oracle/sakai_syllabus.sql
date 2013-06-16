@@ -14,6 +14,7 @@ create table SAKAI_SYLLABUS_DATA (
    title varchar2(256),
    xview varchar2(16),
    status varchar2(64),
+   isTemplate varchar2(36),
    emailNotification varchar2(128),
    surrogateKey number(19,0),
    primary key (id)
