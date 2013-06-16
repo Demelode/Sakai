@@ -684,7 +684,7 @@ public class SyllabusServiceImpl implements SyllabusService, EntityTransferrer, 
                                         syData.getTitle(), (new Integer(
                                             initPosition)), syData.getAsset(),
                                         syData.getView(), syData.getStatus(),
-                                        syData.getEmailNotification());
+                                        syData.getEmailNotification(), false);  // TODO: BOOKMARKED
                             		Set attachSet = new TreeSet();
                             		for(int m=0; m<attachStringList.size(); m++)
                             		{
@@ -793,7 +793,7 @@ public class SyllabusServiceImpl implements SyllabusService, EntityTransferrer, 
                   SyllabusData newToSyData = syllabusManager
                   		  .createSyllabusDataObject(toSyData.getTitle(),
                           positionNo, toSyData.getAsset(), toSyData.getView(),
-                          toSyData.getStatus(), toSyData.getEmailNotification());
+                          toSyData.getStatus(), toSyData.getEmailNotification(), false); // TODO: BOOKMARKED
                   
                   syllabusManager.addSyllabusToSyllabusItem(toSyItem, newToSyData);
                 }
@@ -1212,7 +1212,7 @@ public class SyllabusServiceImpl implements SyllabusService, EntityTransferrer, 
 										positionNo, toSyData.getAsset(),
 										toSyData.getView(), toSyData
 												.getStatus(), toSyData
-												.getEmailNotification());
+												.getEmailNotification(), false); // TODO: BOOKMARKED
 						Set attachSet = syllabusManager.getSyllabusAttachmentsForSyllabusData(toSyData);
 						Iterator attachIter = attachSet.iterator();
 						Set newAttachSet = new TreeSet();

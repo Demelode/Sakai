@@ -61,10 +61,6 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
   private static final String QUERY_BY_CONTEXTID = "findSyllabusItemByContextId";
   private static final String QUERY_LARGEST_POSITION = "findLargestSyllabusPosition";
 
-  private static final String QUERY_TEMPLATE_BY_USERID_AND_CONTEXTID = "findSyllabusTemplateByUserAndContextIds";
-  private static final String QUERY_TEMPLATE_BY_CONTEXTID = "findSyllabusTemplateByContextId";
-  private static final String QUERY_LARGEST_TEMPLATE_POSITION = "findLargestSyllabusTemplatePosition";
-
   private static final String USER_ID = "userId";
   private static final String CONTEXT_ID = "contextId";
   private static final String SURROGATE_KEY = "surrogateKey";
@@ -148,7 +144,7 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
    * @param emailNotification 
    */
   public SyllabusData createSyllabusDataObject(String title, Integer position,
-        String asset, String view, String status, String emailNotification)      
+        String asset, String view, String status, String emailNotification, boolean isTemplate)      
   {
     if (position == null)
     {
@@ -164,6 +160,7 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
       data.setView(view);
       data.setStatus(status);
       data.setEmailNotification(emailNotification);
+      data.setTemplate(isTemplate); // is a template 
             
       saveSyllabus(data);
       return data;
