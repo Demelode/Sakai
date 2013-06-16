@@ -36,7 +36,6 @@ import org.hibernate.criterion.Expression;
 import org.sakaiproject.api.app.syllabus.SyllabusAttachment;
 import org.sakaiproject.api.app.syllabus.SyllabusData;
 import org.sakaiproject.api.app.syllabus.SyllabusItem;
-import org.sakaiproject.api.app.syllabus.SyllabusTemplate;
 import org.sakaiproject.api.app.syllabus.SyllabusManager;
 import org.sakaiproject.component.cover.ServerConfigurationService;
 import org.sakaiproject.content.api.ContentHostingService;
@@ -632,131 +631,6 @@ public class SyllabusManagerImpl extends HibernateDaoSupport implements Syllabus
     
     return attach;
   }*/
-
-/*******************************
- * SYLLABUS TEMPLATE FUNCTIONS *
- *******************************/
-
-  /**
-   * createSyllabusTemplate creates a new SyllabusTemplate
-   * @param title
-   * @param position
-   * @param content
-   * @return syllabusTemplate  
-   */
-  public SyllabusTemplate createSyllabusTemplate(String title, Integer posId, String content)
-  {
-    if (title == null || posId == null) // content can be null
-    {
-      throw new IllegalArgumentException("Null Argument");
-    }
-    else
-    {
-      SyllabusTemplate syl = new SyllabusTemplateImpl();
-      this.saveSyllabusTemplate(syl); 
-      return syl;
-    }
-  }
-
-
-  /**
-   * saveSyllabusTemplate persists a SyllabusTemplate
-   * @param syllabusTemplate
-   */
-  public void saveSyllabusTemplate(SyllabusTemplate syllabusTemplate)
-  {
-    getHibernateTemplate().saveOrUpdate(syllabusTemplate);
-  }
-  
-
-  /**
-   * getSyllabusTemplateByContextId finds a SyllabusTemplate
-   * @param contextId
-   * @return SyllabusTemplate    
-   */
-  public SyllabusTemplate getSyllabusTemplateByContextId(final String contextId)
-  {
-    if (contextId == null)
-    {
-      throw new IllegalArgumentException("Null Argument");
-    }
-          
-    HibernateCallback hcb = new HibernateCallback()
-    {
-      public Object doInHibernate(Session session) throws HibernateException,
-          SQLException
-      {
-        Query q = session.getNamedQuery(QUERY_TEMPLATE_BY_CONTEXTID);                        
-        q.setParameter(CONTEXT_ID, contextId, Hibernate.STRING);                   
-        return q.uniqueResult();
-      }
-    };
-        
-    return (SyllabusTemplate) getHibernateTemplate().execute(hcb);
-  }
-
-
-  /**
-   * getSyllabusTemplateByUserAndContextIds finds a SyllabusTemplate
-   * @param userId
-   * @param contextId
-   * @return SyllabusTemplate     
-   */
-  public SyllabusTemplate getSyllabusTemplateByUserAndContextIds(final String userId, final String contextId)
-  {
-    if (userId == null || contextId == null)
-    {
-      throw new IllegalArgumentException("Null Argument");
-    }
-          
-    HibernateCallback hcb = new HibernateCallback()
-    {
-      public Object doInHibernate(Session session) throws HibernateException,
-          SQLException
-      {
-        Query q = session.getNamedQuery(QUERY_TEMPLATE_BY_USERID_AND_CONTEXTID);                
-        q.setParameter(USER_ID, userId, Hibernate.STRING);
-        q.setParameter(CONTEXT_ID, contextId, Hibernate.STRING);                   
-        return q.uniqueResult();
-      }
-    };
-        
-    return (SyllabusTemplate) getHibernateTemplate().execute(hcb);
-  }
-
-
-  /**
-   * findLargestSyllabusTemplatePosition finds the largest syllabus template position for an item
-   * @param syllabusTemplate
-   */
-  public Integer findLargestSyllabusTemplatePosition()      
-  {
-    return new Integer(0); // temp testing
-
-      // HibernateCallback hcb = new HibernateCallback()
-      // {                
-      //   public Object doInHibernate(Session session) throws HibernateException, SQLException
-      //   {            
-      //     // Query q = session.getNamedQuery(QUERY_LARGEST_TEMPLATE_POSITION);                
-      //     // Integer position = (Integer) q.uniqueResult();
-      //     Integer position = new Integer(0); // temp
-
-      //     if (position == null){
-      //       return new Integer(0);
-      //     }
-      //     else{
-      //       return position;
-      //     }
-          
-      //   }
-      // };
-      // return (Integer) getHibernateTemplate().execute(hcb);
-  }    
-
-  public void removeSyllabusTemplate(SyllabusTemplate syllabusTemplate)
-  {
-    getHibernateTemplate().delete(syllabusTemplate);
-  }
 
 }
 

@@ -41,7 +41,6 @@ import org.apache.commons.logging.LogFactory;
 import org.sakaiproject.api.app.syllabus.SyllabusAttachment;
 import org.sakaiproject.api.app.syllabus.SyllabusData;
 import org.sakaiproject.api.app.syllabus.SyllabusItem;
-import org.sakaiproject.api.app.syllabus.SyllabusTemplate;
 import org.sakaiproject.api.app.syllabus.SyllabusManager; 
 import org.sakaiproject.api.app.syllabus.SyllabusService;
 import org.sakaiproject.component.cover.ServerConfigurationService;

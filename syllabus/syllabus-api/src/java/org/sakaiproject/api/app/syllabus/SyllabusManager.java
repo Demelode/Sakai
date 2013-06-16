@@ -75,16 +75,4 @@ public interface SyllabusManager
   public void updateSyllabusAttachmentsViewState(final SyllabusData syllabusData);
   
   //public SyllabusAttachment creatSyllabusAttachmentResource(String attachId, String name);
-
-  public SyllabusTemplate createSyllabusTemplate(String title, Integer posId, String content);
-
-  public void saveSyllabusTemplate(SyllabusTemplate syllabusTemplate);
-
-  public void removeSyllabusTemplate(SyllabusTemplate syllabusTemplate);
-
-  public SyllabusTemplate getSyllabusTemplateByContextId(final String contextId);
-
-  public SyllabusTemplate getSyllabusTemplateByUserAndContextIds(final String userId, final String contextId);
-  
-  public Integer findLargestSyllabusTemplatePosition();
 }
