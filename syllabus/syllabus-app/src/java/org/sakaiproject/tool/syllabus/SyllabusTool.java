@@ -303,7 +303,9 @@ public class SyllabusTool
                 Iterator iter = tempEntries.iterator();
                 while (iter.hasNext())
                 {
-                    SyllabusData en = (SyllabusData) iter.next();
+                  SyllabusData en = (SyllabusData) iter.next();
+                  if (!en.getStatus().equalsIgnoreCase(SyllabusData.ITEM_TEMPLATE))
+                  {
                     if (this.checkAccess())
                     {
                         DecoratedSyllabusEntry den = new DecoratedSyllabusEntry(en);
@@ -317,6 +319,7 @@ public class SyllabusTool
                             entries.add(den);
                         }
                     }
+                  }
                 }
             }
         }
@@ -363,17 +366,20 @@ public class SyllabusTool
             while (iter.hasNext())
             {
               SyllabusData en = (SyllabusData) iter.next();
-              if (this.checkAccess())
+              if (!en.getStatus().equalsIgnoreCase(SyllabusData.ITEM_TEMPLATE))
               {
-                DecoratedSyllabusEntry den = new DecoratedSyllabusEntry(en);
-                entries.add(den);
-              }
-              else
-              {
-                if (en.getStatus().equalsIgnoreCase(SyllabusData.ITEM_POSTED))
+                if (this.checkAccess())
                 {
                   DecoratedSyllabusEntry den = new DecoratedSyllabusEntry(en);
                   entries.add(den);
+                }
+                else
+                {
+                  if (en.getStatus().equalsIgnoreCase(SyllabusData.ITEM_POSTED))
+                  {
+                    DecoratedSyllabusEntry den = new DecoratedSyllabusEntry(en);
+                    entries.add(den);
+                  }
                 }
               }
             }
@@ -2245,7 +2251,7 @@ public class SyllabusTool
         }
         if (entry.justCreated == true)
         {
-          getEntry().getEntry().setStatus(SyllabusData.ITEM_POSTED);
+          getEntry().getEntry().setStatus(SyllabusData.ITEM_TEMPLATE);
           syllabusManager.addSyllabusToSyllabusItem(syllabusItem, getEntry()
               .getEntry());
           //syllabusManager.saveSyllabusItem(syllabusItem);
@@ -2341,6 +2347,228 @@ public class SyllabusTool
               "error_general", (new Object[] { e.toString() })));
     }
     return null;
+  }
+
+  public String processDeleteCancelTemplate()
+  {
+    entries.clear();
+    entry = null;
+  
+    return "main_edit_template";
+  }
+
+public String processDeleteTemplate()
+      throws org.sakaiproject.exception.PermissionException
+  {
+    ArrayList selected = getSelectedEntries();
+    try
+    {
+      if (!this.checkAccess())
+      {
+        return "permission_error";
+      }
+      else
+      {
+        Set dataSet = syllabusManager.getSyllabiForSyllabusItem(syllabusItem);
+        for (int i = 0; i < selected.size(); i++)
+        {
+          DecoratedSyllabusEntry den = (DecoratedSyllabusEntry) selected.get(i);
+          
+//          if(den.getEntry().getStatus().equalsIgnoreCase("Posted"))
+//          {
+            syllabusService.deletePostedSyllabus(den.getEntry());
+//          }
+          
+          //Set syllabusAttachments = den.getEntry().getAttachments();
+          Set syllabusAttachments = syllabusManager.getSyllabusAttachmentsForSyllabusData(den.getEntry());
+          //den.getEntry().getAttachments();
+          Iterator iter = syllabusAttachments.iterator();
+          while(iter.hasNext())
+          {
+            SyllabusAttachment attach = (SyllabusAttachment)iter.next();
+            String id = attach.getAttachmentId();
+            
+            syllabusManager.removeSyllabusAttachSyllabusData(den.getEntry(), attach);  
+            if(id.toLowerCase().startsWith("/attachment"))
+              contentHostingService.removeResource(id);
+          }
+          syllabusManager.removeSyllabusFromSyllabusItem(syllabusItem, den
+              .getEntry());
+        }
+      }
+      Placement currentPlacement = ToolManager.getCurrentPlacement();
+      syllabusItem = syllabusManager.getSyllabusItemByContextId(currentPlacement.getContext());
+      
+      entries.clear();
+      entry = null;
+
+      return "main_edit_template";
+    }
+    catch (Exception e)
+    {
+      logger.info(this + ".processDeleteTemplate: " + e);
+      FacesContext.getCurrentInstance().addMessage(
+          null,
+          MessageFactory.getMessage(FacesContext.getCurrentInstance(),
+              "error_general", (new Object[] { e.toString() })));
+    }
+
+    entries.clear();
+    entry = null;
+
+    return null;
+  }
+
+  public String processListDeleteTemplate() throws PermissionException
+  {
+  try
+    {
+      if (!this.checkAccess())
+      {
+        return "permission_error";
+      }
+      else
+      {
+        ArrayList selected = getSelectedEntries();
+        if (selected.isEmpty())
+        {
+          FacesContext.getCurrentInstance().addMessage(
+              null,
+              MessageFactory.getMessage(FacesContext.getCurrentInstance(),
+                  "error_delete_select", null));
+
+          return null;
+        }
+        return "delete_confirm_template";
+      }
+    }
+    catch (Exception e)
+    {
+      logger.info(this + ".processListDeleteTemplate in SyllabusTool: " + e);
+      FacesContext.getCurrentInstance().addMessage(
+          null,
+          MessageFactory.getMessage(FacesContext.getCurrentInstance(),
+              "error_general", (new Object[] { e.toString() })));
+    }
+
+    return null;
+  }
+
+  public ArrayList getTemplateEntries() throws PermissionException
+  {
+    if (userId == null) userId = UserDirectoryService.getCurrentUser().getId();
+    //sakai2 - use Placement to get context instead of getting currentSitePageId from PortalService in sakai.
+    Placement placement = ToolManager.getCurrentPlacement();
+  String currentSiteId = placement.getContext();
+
+
+    if ((entries == null) || (entries.isEmpty()) || ((currentSiteId != null) && (!currentSiteId.equals(siteId))))
+    {
+      siteId = currentSiteId;
+      try
+      {
+        if (entries == null)
+          entries = new ArrayList();
+        else
+          entries.clear();
+        
+                
+        syllabusItem = getSyllabusItem();            
+
+        if (syllabusItem != null) {
+            Set tempEntries = syllabusManager
+            .getSyllabiForSyllabusItem(syllabusItem);
+
+            if (tempEntries != null)
+            {
+                Iterator iter = tempEntries.iterator();
+                while (iter.hasNext())
+                {
+                    SyllabusData en = (SyllabusData) iter.next();
+                    if (this.checkAccess() && en.getStatus().equalsIgnoreCase(SyllabusData.ITEM_TEMPLATE))
+                    {
+                        DecoratedSyllabusEntry den = new DecoratedSyllabusEntry(en);
+                        entries.add(den);
+                    }
+                }
+            }
+        }
+      }
+      catch (Exception e)
+      {
+        logger.info(this + ".getTemplateEntries() in SyllabusTool " + e);
+        FacesContext.getCurrentInstance().addMessage(
+            null,
+            MessageFactory.getMessage(FacesContext.getCurrentInstance(),
+                "error_general", (new Object[] { e.toString() })));
+      }
+    }
+    else
+    {
+      try
+      {
+        siteId = currentSiteId;
+        if ((userId != null) && (siteId != null))
+        {
+          syllabusItem = syllabusManager.getSyllabusItemByContextId(siteId);
+        }
+
+        boolean getFromDbAgain = true;
+        for(int i=0; i<entries.size(); i++)
+        {
+          DecoratedSyllabusEntry thisDecEn = (DecoratedSyllabusEntry) entries.get(i);
+          if(thisDecEn.isSelected())
+          {
+            getFromDbAgain = false;
+            break;
+          }
+        }
+        
+        if(getFromDbAgain)
+        {
+          entries.clear();
+          Set tempEntries = syllabusManager
+          .getSyllabiForSyllabusItem(syllabusItem);
+          
+          if (tempEntries != null)
+          {
+            Iterator iter = tempEntries.iterator();
+            while (iter.hasNext())
+            {
+              SyllabusData en = (SyllabusData) iter.next();
+              if (this.checkAccess() && en.getStatus().equalsIgnoreCase(SyllabusData.ITEM_TEMPLATE))
+                {
+                  DecoratedSyllabusEntry den = new DecoratedSyllabusEntry(en);
+                  entries.add(den);
+                }
+            }
+          }
+        }
+      }
+      catch (Exception e)
+      {
+        logger.info(this + ".getTemplateEntries() in SyllabusTool for redirection" + e);
+        FacesContext.getCurrentInstance().addMessage(
+            null,
+            MessageFactory.getMessage(FacesContext.getCurrentInstance(),
+                "error_general", (new Object[] { e.toString() })));
+      }
+    }
+    if (entries == null || entries.isEmpty())
+    {
+      this.displayNoEntryMsg = true;
+    }
+    else
+    {
+      this.displayNoEntryMsg = false;
+    }
+
+    //Registramos el evento de que se ha accedido a Syllabus
+    //Register the event when the syllabus is accessed
+    Event event = EventTrackingService.newEvent("syllabus.read","/syllabus/"+currentSiteId+"/1", false, 0);
+    EventTrackingService.post(event);
+    
+    return entries;
   }
 
 }
