@@ -146,7 +146,6 @@ public class SyllabusTool
       entry = this;
 
       entries.clear();
-
       return "read";
     }
 
@@ -1010,7 +1009,10 @@ public class SyllabusTool
         }
         if (entry.justCreated == false)
         {
-          getEntry().getEntry().setStatus(SyllabusData.ITEM_DRAFT);
+          if(!getEntry().getEntry().getStatus().equals(SyllabusData.ITEM_TEMPLATE)){
+            getEntry().getEntry().setStatus(SyllabusData.ITEM_DRAFT);
+          }
+
           syllabusManager.saveSyllabus(getEntry().getEntry());
           
           for(int i=0; i<attachments.size(); i++)
@@ -2320,6 +2322,43 @@ public class SyllabusTool
     }
   }
 
+public String processListNewTemplateFromTemplate() throws PermissionException
+  {
+    try
+    {
+      if (!this.checkAccess())
+      {
+        return "permission_error";
+      }
+      else
+      {
+        int initPosition = syllabusManager.findLargestSyllabusPosition(
+            syllabusItem).intValue() + 1;
+        SyllabusData en = syllabusManager.createSyllabusDataObject(null,
+            new Integer(initPosition), null, null, SyllabusData.ITEM_TEMPLATE, "none"); // TODO: BOOKMARKED
+        en.setView("no");
+
+        entry = new DecoratedSyllabusEntry(en);
+        entry.setJustCreated(true);
+
+        entries.clear();
+
+        return "edit_template";
+      }
+    }
+    catch (Exception e)
+    {
+      logger.info(this + ".processListNewTemplate in SyllabusTool: " + e);
+      FacesContext.getCurrentInstance().addMessage(
+          null,
+          MessageFactory.getMessage(FacesContext.getCurrentInstance(),
+              "error_general", (new Object[] { e.toString() })));
+
+      return null;
+    }
+  }
+
+
   public String processCreateAndEditTemplate()
   {
     try
@@ -2569,6 +2608,57 @@ public String processDeleteTemplate()
     EventTrackingService.post(event);
     
     return entries;
+  }
+
+  public String processListUseAsTemplate() throws PermissionException
+    {
+    try
+      {
+        if (!this.checkAccess())
+        {
+          return "permission_error";
+        }
+        else
+        {
+          ArrayList selected = getSelectedEntries();
+          if (selected.isEmpty())
+          {
+            FacesContext.getCurrentInstance().addMessage(
+                null,
+                MessageFactory.getMessage(FacesContext.getCurrentInstance(),
+                    "error_template_select_none", null));
+
+            return null;
+          } else if (selected.size() > 1) {
+            FacesContext.getCurrentInstance().addMessage(
+                null,
+                MessageFactory.getMessage(FacesContext.getCurrentInstance(),
+                    "error_template_select_more_then_one", null));
+
+            return null;
+          } 
+          else 
+          {
+            attachments.clear();
+
+            SyllabusData sd = selected.get(0).getEntry(); 
+            syllabusService.readSyllabus(sd);
+
+            entries.clear();
+            return "edit_template";
+          }
+        }
+      }
+      catch (Exception e)
+      {
+        logger.info(this + ".processListUseAsTemplate in SyllabusTool: " + e);
+        FacesContext.getCurrentInstance().addMessage(
+            null,
+            MessageFactory.getMessage(FacesContext.getCurrentInstance(),
+                "error_general", (new Object[] { e.toString() })));
+      }
+
+    return null;
   }
 
 }

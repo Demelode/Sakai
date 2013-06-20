@@ -179,6 +179,11 @@
   <navigation-rule>
     <from-view-id>/syllabus/main_edit_template.jsp</from-view-id>
     <navigation-case>
+      <from-outcome>read</from-outcome>
+      <to-view-id>/syllabus/read_template.jsp</to-view-id>
+      <redirect/>
+    </navigation-case>
+    <navigation-case>
       <from-outcome>permission_error</from-outcome>
       <to-view-id>/syllabus/permission_error.jsp</to-view-id>
       <redirect/>
@@ -215,6 +220,40 @@
     <navigation-case>
       <from-outcome>permission_error</from-outcome>
       <to-view-id>/syllabus/permission_error.jsp</to-view-id>
+      <redirect/>
+    </navigation-case>
+  </navigation-rule>
+
+  <navigation-rule>
+    <from-view-id>/syllabus/read_template.jsp</from-view-id>
+    <navigation-case>
+      <from-outcome>main_edit_template</from-outcome>
+      <to-view-id>/syllabus/main_edit_template.jsp</to-view-id>
+      <redirect/>
+    </navigation-case>
+    <navigation-case>
+      <from-outcome>edit_template</from-outcome>
+      <to-view-id>/syllabus/read_template.jsp</to-view-id>
+      <redirect/>
+    </navigation-case>
+    <navigation-case>
+      <from-outcome>edit</from-outcome>
+      <to-view-id>/syllabus/read_template.jsp</to-view-id>
+      <redirect/>
+    </navigation-case>
+    <navigation-case>
+      <from-outcome>permission_error</from-outcome>
+      <to-view-id>/syllabus/permission_error.jsp</to-view-id>
+      <redirect/>
+    </navigation-case>
+    <navigation-case>
+      <from-outcome>main_edit</from-outcome>
+      <to-view-id>/syllabus/main_edit_template.jsp</to-view-id>
+      <redirect/>
+    </navigation-case>
+    <navigation-case>
+      <from-outcome>read</from-outcome>
+      <to-view-id>/syllabus/read_template.jsp</to-view-id>
       <redirect/>
     </navigation-case>
   </navigation-rule>
@@ -411,8 +450,18 @@
   <navigation-rule>
     <from-view-id>/syllabus/template_select_template.jsp</from-view-id>
     <navigation-case>
+      <from-outcome>read</from-outcome>
+      <to-view-id>/syllabus/read_template.jsp</to-view-id>
+      <redirect/>
+    </navigation-case>
+    <navigation-case>
       <from-outcome>main_edit_template</from-outcome>
       <to-view-id>/syllabus/main_edit_template.jsp</to-view-id>
+      <redirect/>
+    </navigation-case>
+    <navigation-case>
+      <from-outcome>edit_template</from-outcome>
+      <to-view-id>/syllabus/edit_template.jsp</to-view-id>
       <redirect/>
     </navigation-case>
     <navigation-case>

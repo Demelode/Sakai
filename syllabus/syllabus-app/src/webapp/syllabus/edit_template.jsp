@@ -24,7 +24,6 @@
  			<h:panelGrid columns="2" styleClass="jsfFormTable">
  				<h:panelGroup styleClass="shorttext required">
  					<h:outputText value="*" styleClass="reqStar"/>
- 					
  					<h:outputLabel for="title">
  						<h:outputText value="#{msgs.template_title}"/>
  					</h:outputLabel>
@@ -54,7 +53,7 @@
 					accesskey="x"
 					title="#{msgs.button_cancel}" />
 			</sakai:button_bar>
-		 </h:form>
+		 	</h:form>
 		</sakai:view_content>
 	</sakai:view_container>
 </f:view> 
