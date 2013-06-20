@@ -19,11 +19,6 @@
                             <h:outputText value="*" styleClass="reqStar"/>
                             <h:outputText value="#{msgs.template}"/>
                         </h:outputLabel>
-                        <h:selectOneListbox size="1"  id="list2" value="#{SyllabusTool.syllabusDataEmailNotification}">
-                            <f:selectItem itemLabel="#{msgs.template_item_three}" itemValue=""/>
-                            <f:selectItem itemLabel="#{msgs.template_item_two}" itemValue=""/>
-                            <f:selectItem itemLabel="#{msgs.template_item_one}" itemValue=""/>
-                        </h:selectOneListbox>
                         <sakai:button_bar>
                             <sakai:button_bar_item
                                 action="" 
