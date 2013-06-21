@@ -32,7 +32,7 @@
             
             <h:column rendered="#{! SyllabusTool.displayNoEntryMsg}">
               <f:facet name="header">
-                <h:outputText value="#{msgs.mainEditHeaderItem}" />
+                <h:outputText value="#{msgs.mainEditHeaderItemTemplate}" />
               </f:facet>
               <f:verbatim><h4 class="specialLink"></f:verbatim>               
               <h:commandLink action="#{eachEntry.processListRead}" title="#{msgs.goToItem} #{eachEntry.entry.title}">

@@ -23,28 +23,12 @@
                     <h:outputText value="#{msgs.template}" />
                   </f:facet>
                   <f:verbatim><h4 class="specialLink"></f:verbatim>               
-                  <h:commandLink action="#{eachEntry.processListRead}" title="#{msgs.goToItem} #{eachEntry.entry.title}">
+                  <h:commandLink action="#{eachEntry.processListUseTemplateForTemplate}" title="#{msgs.goToItem} #{eachEntry.entry.title}">
                     <h:outputText value="#{eachEntry.entry.title}"/>
                   </h:commandLink>
                   <f:verbatim></h4></f:verbatim>
                 </h:column>
-
-                <h:column rendered="#{! SyllabusTool.displayNoEntryMsg}">
-                  <f:facet name="header">
-                    <h:outputText value="#{msgs.select}"/>
-                  </f:facet>
-                  <h:selectBooleanCheckbox value="#{eachEntry.selected}" title="#{msgs.selectastemplate}: (#{eachEntry.entry.title})"/>
-                </h:column>
-
             </syllabus:syllabus_table>
-
-            <f:verbatim><p class="act"></f:verbatim> 
-            <h:commandButton 
-                value="#{msgs.useselectedastemplate}" 
-                action="#{SyllabusTool.processListUseAsTemplate}"
-                title="#{msgs.useselectedastemplate}"
-                rendered="#{! SyllabusTool.displayNoEntryMsg}"
-                accesskey="s" />
             <f:verbatim></p></f:verbatim>     
             </h:form>
         </sakai:view_content>
