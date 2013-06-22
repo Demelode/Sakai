@@ -12,4 +12,4 @@ Links
 * Java Server Faces Guide (I learned more from looking at codebase): http://www.tutorialspoint.com/jsf/index.htm
 * Google (For everything else!): http://google.com
 
-
+Note: This is not a guide on how to program, merely a guide on how to develop a mindset of understanding around the Syllabus feature within Sakai.
