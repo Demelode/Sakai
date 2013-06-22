@@ -1,5 +1,5 @@
-Guide on How to Develop in the Sakai Syllabus
-=============================================
+Guide on How to Develop in Sakai's Syllabus
+===========================================
 
 Links
 -----
