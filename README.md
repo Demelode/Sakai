@@ -9,6 +9,6 @@ Links
 * Persistence Explainations (Syllabus uses Hibernate): https://confluence.sakaiproject.org/display/BOOT/Persistence
 * Tomcat Local Server link: http://localhost:8080/
 * Locally hosted Sakai URL (after proper environment setup): http://localhost:8080/portal
-* Java Server Faces Guide (I learned more from looking at codebase then using any guide): http://www.tutorialspoint.com/jsf/index.htm
+* Java Server Faces Guide (I learned more from looking at codebase): http://www.tutorialspoint.com/jsf/index.htm
 
 
