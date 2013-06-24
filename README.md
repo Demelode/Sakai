@@ -26,3 +26,10 @@ TAKE IT SLOW. Read the linked guides very carefully, and take each step as slow 
 
 Finally, the guides suggest you use Eclipse to develop your code. As a sane post-2010 developer, I would suggest instead to use something like Sublime Text 2 (or the most revelant version at the time of reading), and your machine's unique terminal application. It is just so much more usable, the features that SubText has are irreplacable (codebase wide key search, good plugins, beautiful and usable interface, etc.), and Eclipse is just way to clunky, slow, and such a waste of screen real-estate. If you haven't started working with a unix-based terminal yet in your student career, you need to get on that right now, because its a skill that is required in any sort of software development career. Back in my first year of university I didn't know anything about dealing with unix and/or the terminal -- and in second year I didn't enjoy it when it was taught in 2211 (I think that was the course). But by third year, the power of effective terminal use is invaluable to speedy development, not to mention its necessity when dealing with git and (*shudder*) svn.
 
+Thoughts on Sakai's Code and How the Pieces Works Together
+----------------------------------------------------------
+
+Thoughts on Persistance in Sakai's Syllabus
+-------------------------------------------
+
+
